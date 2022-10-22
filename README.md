@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Artificial Intelligence,Web Development..
 * ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
-* ✍🏻 Former  Bootcamp Manager at _DevTown__ the largest E-Learning Startup Company of India.<br/>
+* ✍🏻 Former  Bootcamp Manager at _DevTown_, the largest E-Learning Startup Company of India.<br/>
 
 <h3 align="left">My Interests: </h3> 
 
