@@ -10,12 +10,9 @@
 * ✍🏻 A fourth year undergraduate at SSM College Of Engineering Pattan,J&K.<br/>
 * 👀 I’m interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
 - 🌱 I’m currently learning Artificial Intelligence,Web Development..
-* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/)<br/>
+* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
 * ✍🏻 Former  Bootcamp Manager at _DevTown__, the second largest technical fest of Eastern India.<br/>
-
-
-
 
 <h3 align="left">My Interests: </h3> 
 
@@ -34,22 +31,13 @@
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 </p>
- 
-Here are my coding profiles: <br/>
-
-
-__Codechef__: [sweet_summer](https://www.codechef.com/users/#) <br/>
-__Codeforces__: [sneha_c](codeforces.com/profile/#) <br/>
-
-
-
 
 
  
  <h3 align="left">My Github Public Stats:</h3>
  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sneha-nitdgp&show_icons=true&locale=en" alt="sneha-nitdgp" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aabidtantry22&show_icons=true&locale=en" alt="AabidTantry" /></p>
 
 
  <h3 align="left">Contact and Social:</h3>
