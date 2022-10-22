@@ -38,8 +38,8 @@
 Here are my coding profiles: <br/>
 
 
-__Codechef__: [sweet_summer](https://www.codechef.com/users/sweet_summer) <br/>
-__Codeforces__: [sneha_c](codeforces.com/profile/sneha_c) <br/>
+__Codechef__: [sweet_summer](https://www.codechef.com/users/#) <br/>
+__Codeforces__: [sneha_c](codeforces.com/profile/#) <br/>
 
 
 
@@ -54,9 +54,9 @@ __Codeforces__: [sneha_c](codeforces.com/profile/sneha_c) <br/>
 
  <h3 align="left">Contact and Social:</h3>
 
- :blue_heart:Connect with me on [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/)<br/>
- :purple_heart: Follow me on [Quora](https://www.quora.com/profile/Sneha-Chatterjee-87)<br/>
- :orange_heart: Drop me a [mail](mailto:snehautp@gmail.com)
+ :blue_heart:Connect with me on [LinkedIn](https://in.linkedin.com/in/aabid-nabi-031267184?trk=people-guest_people_search-card)<br/>
+ 💻:Visit my Personal [Portfolio Website](https://portfolioaabidnabi.netlify.app)</br>
+ :orange_heart: Drop me a [mail](mailto:tantryinfo98@gmail.com)
 
 
 
@@ -69,14 +69,3 @@ __Codeforces__: [sneha_c](codeforces.com/profile/sneha_c) <br/>
 
 
 
-
-- 👋 Hi, I’m @Aabidnabi
-- 👀 I’m interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
-- 🌱 I’m currently learning Artificial Intelligence,Web Development..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Aabidnabi/Aabidnabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
