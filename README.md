@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, This is Aabid Nabi 👋</h1>
 
-<img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqbPUDMYZ5ni6HRL8Db9SxO8InFxWjvP98yA&usqp=CAU' width='200"'>
+<img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoeR4iTcMjSbVtSD_MAkaqR9tEe3rXv554fw&usqp=CAU' width='200"'>
 
 ## Welcome to my profile 🤝:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-nitdgp&label=Profile%20Views This Month &color=0e75b6&style=flat" alt="sneha-nitdgp" /> </p>
