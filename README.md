@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, This is Sneha 👋</h1>
+<h1 align="center">Hi there, This is Aabid Nabi 👋</h1>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -7,27 +7,20 @@
 
 <h3 align="left">I am:</h3>
 
-* ✍🏻 A fourth year undergraduate at NIT Durgapur.<br/>
-* ✍🏻 An upcoming software engineer at __JP Morgan London__.<br/>
-* ✍🏻 Recipient of the __[Google Generation Scholarship'2021](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/)__ for women in computer science.<br/>
-* ✍🏻 One of the 40 mentees of __[LinkedIn CoachIn](https://coachin2021.splashthat.com/)__  for the year 2021.<br/>
-* ✍🏻 Technical Content Writer and Reviewer at __[Scaler](https://www.scaler.com/topics/)__  for the C/C++, DSA, Python, Javascript, HTML, SQL hubs.<br/>
-* ✍🏻 Former undergraduate Research Assistant at __NIT Durgapur__.<br/>
-* ✍🏻 Former research intern at __IIT Patna__.<br/>
-* ✍🏻 __Managed Network Expert__ for Computer Science at __[Chegg](https://www.chegg.com/)__.<br/>
-* ✍🏻 Web Developer at __[SAE India collegiate chapter](https://www.saenitd.com/)__ of NIT Durgapur.<br/>
-* ✍🏻 Former Mentor at __[GWOC'21](https://gwoc.girlscript.tech/index.html)__, for __DSA__ .<br/>
-* ✍🏻 Former Mentor at __[OpenCode'21](https://opencodeiiita.github.io/)__, a one month long open source program conducted by __IIIT A__.<br/>
+* ✍🏻 A fourth year undergraduate at SSM College Of Engineering Pattan,J&K.<br/>
+* 👀 I’m interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
+- 🌱 I’m currently learning Artificial Intelligence,Web Development..
+* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://buildyourfuture.withgoogle.com/scholarships/google-scholarship-recipients/)<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
-* ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/>
+* ✍🏻 Former  Bootcamp Manager at _DevTown__, the second largest technical fest of Eastern India.<br/>
 
 
 
 
 <h3 align="left">My Interests: </h3> 
 
-* I enjoy doing __competitive programming__ and __Web Development__. <br/>
-* I'm looking to collaborate on __MERN__ , __Django__ projects.<br/>
+* I enjoy doing __competitive programming__,__Learning Cyber Security__ and __Web Development__. <br/>
+* I'm looking to collaborate on __MERN__ , __ML__ projects.<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
