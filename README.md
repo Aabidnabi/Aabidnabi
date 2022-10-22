@@ -3,7 +3,7 @@
 <img align='right' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoeR4iTcMjSbVtSD_MAkaqR9tEe3rXv554fw&usqp=CAU' width='200"'>
 
 ## Welcome to my profile 🤝:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-nitdgp&label=Profile%20Views This Month &color=0e75b6&style=flat" alt="sneha-nitdgp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-nitdgp&label=Profile%20Views This Month &color=0e75b6&style=flat" alt="#" /> </p>
 
 <h3 align="left">I am:</h3>
 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Artificial Intelligence,Web Development..
 * ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
-* ✍🏻 Former  Bootcamp Manager at _DevTown__, the second largest technical fest of Eastern India.<br/>
+* ✍🏻 Former  Bootcamp Manager at _DevTown__, the largest E-Learning Startup Company of India.<br/>
 
 <h3 align="left">My Interests: </h3> 
 
