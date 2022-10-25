@@ -1,7 +1,4 @@
 <h1 align="center">Hi there, This is Aabid Nabi 👋</h1>
-
-<img align='right' src='#' width='200"'>
-
 ## Welcome to my profile 🤝:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-nitdgp&label=Profile%20Views This Month &color=0e75b6&style=flat" alt="#" /> </p>
 
