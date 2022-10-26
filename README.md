@@ -39,10 +39,10 @@
 
  <h3 align="left">Contact and Social:</h3>
 
- :blue_heart:Connect with me on [LinkedIn](https://in.linkedin.com/in/aabid-nabi-031267184?trk=people-guest_people_search-card)<br/>
+ 🤝:Connect with me on [LinkedIn](https://in.linkedin.com/in/aabid-nabi-031267184?trk=people-guest_people_search-card)<br/>
  💻Visit my Personal [Portfolio Website](https://portfolioaabidnabi.netlify.app)</br>
- :orange_heart: Drop me a [mail](mailto:tantryinfo98@gmail.com)
- 💙twitter:[Twitter](https://twitter.com/Aabid__nabi)<br/>
+ :orange_heart: Drop me a [mail](mailto:tantryinfo98@gmail.com)<br/>
+ 💙twitter:[Twitter](https://twitter.com/Aabid__nabi)
 
 
 
