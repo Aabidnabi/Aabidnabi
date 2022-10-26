@@ -1,4 +1,4 @@
-<h1 align="center">Hey,This is Aabid Nabi 👋</h1>
+<h1 align="center">Hey There,This is Aabid Nabi 👋</h1>
 ## Welcome to my profile 🤝:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-nitdgp&label=Profile%20Views This Month &color=0e75b6&style=flat" alt="#" /> </p>
 
