@@ -7,7 +7,7 @@
 * ✍🏻 A fourth year undergraduate at SSM College Of Engineering Pattan,J&K.<br/>
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
 * 🌱 I’m currently learning Artificial Intelligence,Web Development..
-* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)<br/>
+* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)__<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
 * ✍🏻 Former  Bootcamp Manager at _DevTown_, the largest E-Learning Startup Company of India.<br/>
 
