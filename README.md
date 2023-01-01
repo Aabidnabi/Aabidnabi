@@ -1,7 +1,5 @@
 <h1 align="center">Hey There,This is Aabid Nabi 👋</h1>
-## Welcome to my profile 🤝:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aabid-nabi&label=Profile%20Views This Month &color=0e75b6&style=flat" alt="#" /> </p>
-<a href="https://github.com/Aabidnabi?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+                                                        ## Welcome to my profile 🤝:
 
 <h3 align="left">I am:</h3>
 
