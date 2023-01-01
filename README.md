@@ -51,6 +51,12 @@
  💻Visit my Personal [Portfolio Website](https://portfolioaabidnabi.netlify.app)</br>
  📫: Drop me a [mail](mailto:tantryinfo98@gmail.com)<br/>
  💙Follw on Twitter:[Twitter](https://twitter.com/Aabid__nabi)
+ 
+ ## ❤ Views and Followers
+<a href="https://github.com/Aabid-Nabi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=BhaswatiRoy">
+</a>
+<a href="https://github.com/Aabidnabi?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
