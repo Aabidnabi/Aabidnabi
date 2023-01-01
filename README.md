@@ -5,7 +5,7 @@
 
 <h3 align="left">I am:</h3>
 
-* ✍🏻 A Computer Science Engineering Graduate from SSM College Of Engineering Pattan,J&K.<br/>
+* ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir.<br/>
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
 * 🌱 I’m currently learning Artificial Intelligence,Web Development..
 * ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)__<br/>
@@ -14,8 +14,8 @@
 
 <h3 align="left">My Interests: </h3> 
 
-* I enjoy doing  and learning__competitive programming__,__Learning Cyber Security__ and __Web Development__. <br/>
-* I'm looking to collaborate on __MERN STACK__ ,__PENETRATION TESTING__ & __ML__ projects.<br/>
+* I enjoy doing  and learning __Programming__,__Learning Cyber Security__ and __Web Development__. <br/>
+* I'm looking to collaborate on __MERN STACK__ ,__PENETRATION TESTING__ & __Machine Learning__ projects.<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
