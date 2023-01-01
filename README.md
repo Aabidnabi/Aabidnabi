@@ -1,5 +1,7 @@
 <h1 align="center">Hey There,This is Aabid Nabi 👋</h1>
-                                                        ## Welcome to my profile 🤝:
+## Welcome to my profile 🤝:
+<h2 align="left">About Me</h2>
+
 
 <h3 align="left">I am:</h3>
 
