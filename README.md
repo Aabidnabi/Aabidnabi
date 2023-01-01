@@ -54,7 +54,7 @@
  
  ## ❤ Views and Followers
 <a href="https://github.com/Aabid-Nabi/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=BhaswatiRoy">
+    <img src="https://komarev.com/ghpvc/?username=Aabidnabi">
 </a>
 <a href="https://github.com/Aabidnabi?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
