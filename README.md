@@ -7,7 +7,7 @@
 * ✍🏻 A fourth year undergraduate at SSM College Of Engineering Pattan,J&K.<br/>
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
 * 🌱 I’m currently learning Artificial Intelligence,Web Development..
-* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)__<br/>
+* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
 * ✍🏻 Former  Bootcamp Manager at _DevTown_, the largest E-Learning Startup Company of India.<br/>
 
@@ -39,9 +39,10 @@
 
  <h3 align="left">My Github Public Stats:</h3>
  
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aabidtantry22&show_icons=true&locale=en" alt="AabidTantry" /></p>
-
+<a href="https://github.com/Aabidnabi/github-readme-stats"><img alt="Aabid Nabi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabidnabi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
  <h3 align="left">Contact and Social:</h3>
 
