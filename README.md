@@ -7,7 +7,7 @@
 * 👨‍💻 Interested in **Cyber Security,DevOps,Artificial Intelligence,Machine Learning,Blockchain,& Web Development.**</br>
 * 🌱 I enjoy doing  and learning **Programming,DSA,Web Development,Cyber Security & Data Science.**</br>
 * 👯 I'm looking to collaborate on **FULL STACK,PENETRATION TESTING & Machine Learning,Cloud Computing.** projects.<br/>
-* 💬 Ask me about **Full Stack Development , Graphic Designing and Freelancing.**
+* 💬 Ask me about **Full Stack Development, and Freelancing.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
