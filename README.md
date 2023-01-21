@@ -6,15 +6,9 @@
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir.<br/>
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development.</br>
 * 🌱 I’m currently learning and Working on Web Development & Cyber Security.</br>
-* ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)__
-* ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__,
-   conducted by AWS and Udacity.<br/>
-* ✍🏻 Former  Bootcamp Manager at _DevTown_, the largest E-Learning Startup Company of India.<br/>
-
 <h3 align="left">My Interests: </h3> 
-
 * I enjoy doing  and learning __Programming__,__Learning Cyber Security__ and __Web Development__. <br/>
-* I'm looking to collaborate on __MERN STACK__ ,__PENETRATION TESTING__ & __Machine Learning__ projects.<br/>
+* I'm looking to collaborate on __MERN STACK__ ,__PENETRATION TESTING__ & __Machine Learning__,__Cloud Computing__ projects.<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
