@@ -5,7 +5,7 @@
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir.<br/>
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,& Web Development.</br>
-* 🌱 I’m currently learning and Working on **Web Development & Cyber Security**.</br>
+* 🌱 I’m currently learning and Working on __Web Development__ & Cyber Security**.</br>
 <h3 align="left">My Interests: </h3> 
 * I enjoy doing  and learning **Programming,DSA,Cyber Security & Web Development.**<br/>
 * I'm looking to collaborate on **FULL STACK,PENETRATION TESTING & Machine Learning,Cloud Computing**projects.<br/>
