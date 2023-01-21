@@ -6,7 +6,7 @@
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir.<br/>
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
-* 🌱 I’m currently learning Artificial Intelligence,Web Development..
+* 🌱 I’m currently learning and Working on Web Development & Cyber Security..
 * ✍🏻 Recipient of the __[IBM Quantum Computing Scholarship'2022](https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit)__<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
 * ✍🏻 Former  Bootcamp Manager at _DevTown_, the largest E-Learning Startup Company of India.<br/>
