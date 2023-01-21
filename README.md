@@ -4,11 +4,11 @@
 <h3 align="left">I am:</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir.<br/>
-* 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development.</br>
+* 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,& Web Development.</br>
 * 🌱 I’m currently learning and Working on Web Development & Cyber Security.</br>
 <h3 align="left">My Interests: </h3> 
-* I enjoy doing  and learning __Programming__,__DSA__,__Cyber Security__&__Web Development__. <br/>
-* I'm looking to collaborate on __FULL STACK__ ,__PENETRATION TESTING__ &__Machine Learning__,__Cloud Computing__ projects.<br/>
+* I enjoy doing  and learning **Programming,DSA,Cyber Security & Web Development.**<br/>
+* I'm looking to collaborate on **FULL STACK,PENETRATION TESTING & Machine Learning,Cloud Computing**projects.<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
