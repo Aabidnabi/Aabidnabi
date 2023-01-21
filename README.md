@@ -4,7 +4,6 @@
 
 <h3 align="left">I am:</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir.<br/>
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development...
 * 🌱 I’m currently learning Artificial Intelligence,Web Development..
