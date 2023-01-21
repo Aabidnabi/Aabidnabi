@@ -7,8 +7,8 @@
 * 👀 Interested in  Cyber Security,Artificial Intelligence,Machine Learning,Blockchain,&Web Development.</br>
 * 🌱 I’m currently learning and Working on Web Development & Cyber Security.</br>
 <h3 align="left">My Interests: </h3> 
-* I enjoy doing  and learning __Programming__,__Learning Cyber Security__ and __Web Development__. <br/>
-* I'm looking to collaborate on __MERN STACK__ ,__PENETRATION TESTING__ & __Machine Learning__,__Cloud Computing__ projects.<br/>
+* I enjoy doing  and learning __Programming,DSA,Cyber Security and Web Development__. <br/>
+* I'm looking to collaborate on __MERN STACK ,PENETRATION TESTING & Machine Learning,Cloud Computing__ projects.<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
