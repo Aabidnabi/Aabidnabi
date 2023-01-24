@@ -1,12 +1,12 @@
 <h1 align="center">Hey There,This is Aabid Nabi 👋</h1>
-<h3 align="center">Welcome to my profile 🤝</h3>
+<h3 align="center">Welcome to My Profile 🤝</h3>
 <h2 align="left">About Me</h2>
 <h3 align="left">I am:</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir,India.<br/>
 * 👨‍💻 Interested in **Cyber Security,DevOps,Artificial Intelligence,Machine Learning,Blockchain,& Web Development.**</br>
 * 🌱 I enjoy doing  and learning **Programming,DSA,Web Development,Cyber Security & Data Science.**</br>
-* 👯 I'm looking to collaborate on **FULL STACK,PENETRATION TESTING & Machine Learning,Cloud Computing.** projects.<br/>
+* 👯 I'm looking to collaborate on __FULL STACK,PENETRATION TESTING & Machine Learning,Cloud Computing.__ projects.<br/>
 * 💬 Ask me about **Full Stack Development, and Freelancing.**
 
 <h3 align="left">Languages and Tools:</h3>
