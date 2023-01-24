@@ -6,7 +6,7 @@
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir,India.<br/>
 * 👨‍💻 Interested in <b>Cyber Security,DevOps,Artificial Intelligence,Machine Learning,Blockchain,& Web Development.</b></br>
 * 🌱 I enjoy doing  and learning <b>Programming,DSA,Web Development,Cyber Security & Data Science.</b></br>
-* 👯 I'm looking to collaborate on <b>Web Development,Penetration Testing & Machine Learning,Cloud Computing.</b>projects.<br/>
+* 👯 I'm looking to collaborate on <b>Web Development,Penetration Testing & Machine Learning,Cloud Computing </b>projects.<br/>
 * 💬 Ask me about **Full Stack Development, and Freelancing.**
 
 <h3 align="left">Languages and Tools:</h3>
