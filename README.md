@@ -1,8 +1,7 @@
 <h1 align="center">Hey There,This is Aabid Nabi 👋</h1>
 <h3 align="center">Welcome to My Profile 🤝</h3>
 <!-- Typing SVG -->
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer;+%40+All+About+Programming;Web+Developer+;Aspiring+Full+Stack+Developer;+%40Cyber+Security+Analyst;Graudated+from+%40+SSM+College+of+Engineering" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Programmer;+%40+All+About+Me;Web+Developer+;Aspiring+Full+Stack+Developer;+%40Cyber+Security+Scholar;Graudated+from+%40+SSM+College+of+Engineering" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="left">About Me</h2>
