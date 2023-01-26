@@ -59,7 +59,12 @@
     <img src="https://komarev.com/ghpvc/?username=Aabidnabi">
 </a>
 <a href="https://github.com/Aabidnabi?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- Activity Graph -->
 
+[![Aabid Nabi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=aabidnabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🐍 Watch Snake eating my contribution:
+![snake svg](https://github.com/Aabidnabi/parulchaddha/blob/output/github-contribution-grid-snake.svg)
 
 
 
