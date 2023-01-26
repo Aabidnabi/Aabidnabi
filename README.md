@@ -61,10 +61,10 @@
 <a href="https://github.com/Aabidnabi?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 <!-- Activity Graph -->
 
-[![Aabid Nabi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=aabidnabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aabid Nabi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aabidnabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/Aabidnabi/parulchaddha/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Aabidnabi/Aabidnabi/blob/output/github-contribution-grid-snake.svg)
 
 
 
