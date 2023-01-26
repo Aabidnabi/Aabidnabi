@@ -45,12 +45,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aabidtantry22&show_icons=true&locale=en" alt="AabidTantry" /></p>
 <a href="https://github.com/Aabidnabi/github-readme-stats"><img alt="Aabid Nabi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabidnabi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <!-- Activity Graph -->
-
-[![Aabidnabi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aabidnabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/Aabidnabi/Aabidnabi/blob/output/github-contribution-grid-snake.svg)
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
 
  <h3 align="left">Contact and Social:</h3>
