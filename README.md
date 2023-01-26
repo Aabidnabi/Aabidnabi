@@ -1,5 +1,10 @@
 <h1 align="center">Hey There,This is Aabid Nabi 👋</h1>
 <h3 align="center">Welcome to My Profile 🤝</h3>
+<!-- Typing SVG -->
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer;Tech+Team+Member+%40+All+About+Programming;Web+Developer+-+Intern+%40+Codedu;Aspiring+Full+Stack+Developer;Student+%40+Banasthali+Vidyapith" alt="Typing SVG" /></a>
+</p>
+
 <h2 align="left">About Me</h2>
 <h3 align="left">I am:</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
