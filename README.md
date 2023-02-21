@@ -50,7 +50,7 @@
  <h3 align="left">Contact and Social:</h3>
 
  🤝:Connect with me on [LinkedIn](https://in.linkedin.com/in/aabid-nabi-031267184?trk=people-guest_people_search-card)<br/>
- 💻Visit my Personal [Portfolio Website](https://portfolioaabidnabi.netlify.app)</br>
+ 💻Visit my Personal [Portfolio Website](https://www.portfolioaabidnabi.me)</br>
  📫: Drop me a [mail](mailto:tantryinfo98@gmail.com)<br/>
  💙Follw on Twitter:[Twitter](https://twitter.com/Aabid__nabi)
  
