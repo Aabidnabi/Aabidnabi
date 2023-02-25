@@ -9,8 +9,8 @@
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 * ✍🏻 A Computer Science Engineering Graduate from Jammu & Kashmir,India.<br/>
 * 👨‍💻 Interested in <b>Cyber Security,Web Development,Artificial Intelligence,Machine Learning,BlockChain,& DevOps</b></br>
-* 🌱 I enjoy doing  and learning <b>Programming,DSA,Web Development,Cyber Security & Data Science.</b></br>
-* 👯 I'm looking to collaborate on <b>Web Development,Penetration Testing & Machine Learning,Cloud Computing </b>projects.<br/>
+* 📝 I enjoy doing  and learning <b>Programming,DSA,Web Development,Cyber Security & Data Science.</b></br>
+* 🌱 I'm looking to collaborate on <b>Web Development,Penetration Testing & Machine Learning,Cloud Computing </b>projects.<br/>
 * 💬 Ask me about <b>Full Stack Development, and Freelancing.</b>
 
 <h3 align="left">Languages and Tools:</h3>
