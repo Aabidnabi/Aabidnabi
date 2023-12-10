@@ -1,5 +1,4 @@
 ![image](https://github.com/Aabidnabi/Aabidnabi/assets/69672207/e2f26bf8-d8e8-40e3-b816-e6ccc6a5d755)
-<h1 align="center">Hi 👋, I'm Aabid Nabi</h1>
 <!-- Typing SVG -->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=All+About+Me;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 </p>
