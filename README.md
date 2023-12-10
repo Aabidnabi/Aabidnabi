@@ -2,6 +2,7 @@
 <!-- Typing SVG -->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=All+About+Me;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 <h2 align="left">About Me</h2>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -56,7 +57,5 @@
 <a href="https://auth.geeksforgeeks.org/user/tantryinfo98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tantryinfo98" height="30" width="40" /></a>
  <a href="https://www.youtube.com/c/@cscodehubtutorials9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cscodehubtutorials9923" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/aabid_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aabid_21" height="30" width="40" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
-
 <p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
 
