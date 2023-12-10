@@ -48,12 +48,13 @@
 
 <h3 align="left">Connect with me  🤝::</h3>
 <p align="left">
+ <a href="https://linkedin.com/in/aabid-nabi-031267184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabid-nabi-031267184" height="30" width="40" /></a>
 <a href="https://twitter.com/aabid__nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabid__nabi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aabid-nabi-031267184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabid-nabi-031267184" height="30" width="40" /></a>
-<a href="https://instagram.com/a_aabid_nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aabid_nabi" height="30" width="40" /></a>
+<a href="https://fb.com/aabid nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aabid nabi" height="30" width="40" /></a>
+  <a href="https://instagram.com/a_aabid_nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aabid_nabi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aabid_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aabid_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aabid22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aabid22" height="30" width="40" /></a>
-
+<a href="https://www.youtube.com/c/@cscodehubtutorials9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cscodehubtutorials9923" height="30" width="40" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
