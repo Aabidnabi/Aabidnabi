@@ -16,13 +16,27 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" alt="aabidnabi" /></p>
 
+<p align="center">
+    <a href="https://github.com/Aabidnabi/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aabid Nabi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aabidnabi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
  <h3 align="left">My Github Public Stats:</h3>
+ 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aabidtantry22&show_icons=true&locale=en" alt="AabidTantry" /></p>
+<a href="https://github.com/Aabidnabi/github-readme-stats"><img alt="Aabid Nabi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabidnabi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
+
+<!-- <h3 align="left">My Github Public Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aabidnabi&show_icons=true&locale=en" alt="aabidnabi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&" alt="aabidnabi" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabidnabi" alt="aabidnabi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabidnabi" alt="aabidnabi" /></a> </p>-->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me  🤝::</h3>
 <p align="left">
 <a href="https://twitter.com/aabid__nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabid__nabi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aabid-nabi-031267184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabid-nabi-031267184" height="30" width="40" /></a>
@@ -30,7 +44,7 @@
 <a href="https://www.codechef.com/users/aabid_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aabid_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aabid22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aabid22" height="30" width="40" /></a>
 </p>
-
+📫: Drop me a [mail](mailto:tantryinfo98@gmail.com)<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
