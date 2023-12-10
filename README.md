@@ -1,5 +1,6 @@
 <!![image (1)](https://github.com/Aabidnabi/Aabidnabi/assets/69672207/c7b63189-1eba-41bf-85b0-ab61205bc031)
-<!-- Typing SVG -->
+
+<!--Typing SVG-->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=All+About+Me;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 </p>
 
@@ -9,11 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
 
-- ✍🏻 A Recent Graduate in **Computer Engineering **
-- 🌱 I’m currently learning **Web Development,MERN Stack,DSA,Data Science& Cyber Security**
+- ✍🏻 A Recent Graduate in **Computer Engineering**
 - 👨‍💻 Deeply Interested in the domain of **Software Development,Data Science,Cyber Security & Cloud Computing**
-- 👨‍💻 All of my projects are available at [portfolioaabidnabi.netlify.app](portfolioaabidnabi.netlify.app)
-
+- 📝 I’m currently learning **Web Development,MERN Stack,DSA,Data Science& Cyber Security**
+- 🌱  I'm looking to collaborate on **Web Development,Data Science,Cyber SEcurity Projects**
 - 💬 Ask me about **Full Stack Development,Cyber Security and Freelancing projects**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" alt="aabidnabi" /></p>
 
+ <h3 align="left">My Github Public Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aabidnabi&show_icons=true&locale=en" alt="aabidnabi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&" alt="aabidnabi" /></p>
