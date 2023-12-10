@@ -1,6 +1,5 @@
 <!![image (1)](https://github.com/Aabidnabi/Aabidnabi/assets/69672207/c7b63189-1eba-41bf-85b0-ab61205bc031)
-
-<!--Typing SVG-->
+<!-- Typing SVG -->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=All+About+Me;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 </p>
 
