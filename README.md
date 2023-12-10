@@ -4,6 +4,7 @@
 </p>
 <h2 align="left">About Me</h2>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - ✍🏻 A Recent Graduate in **Computer Engineering**
 - 👨‍💻 Deeply Interested in the domain of **Software Development,Data Science,Cyber Security & Cloud Computing**
 - 📝 I’m currently learning **Web Development,MERN Stack,DSA,Data Science& Cyber Security**
