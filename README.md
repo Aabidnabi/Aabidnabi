@@ -1,4 +1,4 @@
-![image](https://github.com/Aabidnabi/Aabidnabi/assets/69672207/0f8d5b11-0042-4d10-a648-5a29afec1c94)
+[![MasterHead][image](https://github.com/Aabidnabi/Aabidnabi/assets/69672207/0f8d5b11-0042-4d10-a648-5a29afec1c94)]
 
 <h1 align="center">Hi 👋, I'm Aabid Nabi</h1>
 
