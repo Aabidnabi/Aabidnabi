@@ -2,13 +2,9 @@
 <!-- Typing SVG -->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=All+About+Me;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 </p>
-
+<h2 align="left">About Me</h2>
+<h3 align="left">I am:</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
-
 - ✍🏻 A Recent Graduate in **Computer Engineering**
 - 👨‍💻 Deeply Interested in the domain of **Software Development,Data Science,Cyber Security & Cloud Computing**
 - 📝 I’m currently learning **Web Development,MERN Stack,DSA,Data Science& Cyber Security**
@@ -35,4 +31,7 @@
 <a href="https://www.leetcode.com/aabid22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aabid22" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
+
+<p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
 
