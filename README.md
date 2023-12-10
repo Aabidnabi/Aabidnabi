@@ -7,7 +7,7 @@
 
 - ✍🏻 A Recent Graduate in **Computer Engineering**
 - 👨‍💻 Deeply Interested in the domain of **Software Development,Data Science,Cyber Security & Cloud Computing**
-- 📝 I’m currently learning **Web Development,MERN Stack,DSA,Data Science& Cyber Security**
+- 📝 I’m currently learning **Web Development,MERN Stack,DSA,Data Science**
 - 🌱  I'm looking to collaborate on **Web Development,Data Science,Cyber SEcurity Projects**
 - 💬 Ask me about **Full Stack Development,Cyber Security and Freelancing projects**
 
