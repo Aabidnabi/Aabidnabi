@@ -56,7 +56,7 @@
   <a href="https://instagram.com/a_aabid_nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aabid_nabi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aabid22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aabid22" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tantryinfo98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tantryinfo98" height="30" width="40" /></a>
- <a href="https://www.youtube.com/c/@cscodehubtutorials9923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cscodehubtutorials9923" height="30" width="40" /></a>
+ <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cscodehubtutorials9923" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/aabid_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aabid_21" height="30" width="40" /></a>
 <p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
 
