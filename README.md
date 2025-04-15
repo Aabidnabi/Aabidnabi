@@ -12,7 +12,7 @@
 - 📝 I’m currently learning **Web Development,MERN Stack,DSA,Data Science**
 - 🌱  I'm looking to collaborate on **Web Development,Data Science Projects**
 - 💬 Ask me about **Full Stack Development,Cyber Security and Freelancing projects**
-- 💻 Checkout my Portfolio <a href="https://portfolioaabid.vercel.app">Portfolio</a>
+- 💻 Checkout my Portfolio <a href="https://portfolioaabid.vercel.app">here</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
