@@ -55,7 +55,7 @@
 <h3 align="left">Connect with me  🤝::</h3>
 <p align="left">
  <a href="https://linkedin.com/in/aabid-nabi-031267184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabid-nabi-031267184" height="30" width="40" /></a>
-<a href="https://x.com/aabid__nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="aabid__nabi" height="30" width="40" /></a>
+<a href="https://aabid__nabi" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/X_logo_white_2023.svg" alt="x-logo" width="30" height="30"></a>
 <a href="https://fb.com/aabid nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aabid nabi" height="30" width="40" /></a>
   <a href="https://instagram.com/_a_abid_nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aabid_nabi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aabid22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aabid22" height="30" width="40" /></a>
