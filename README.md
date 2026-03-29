@@ -13,7 +13,7 @@
 </p> --> 
 
 
-<h2 align="left">🚀 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 <img align = "right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blueviolet?style=flat-square&logo=react" width="200" height="30" />
