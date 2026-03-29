@@ -23,27 +23,27 @@
 ----
 <!-- YAML-Style Introduction -->
 ```yaml
-name: Aabid Nabi
-role: Software Engineer
+Name: Aabid Nabi
+Role: Software Developer | Building Scalable Software & AI Systems 
 
-focus:
+Focus:
   - Production-grade system design
   - Clean architecture and maintainability
   - Performance optimization and scalability
   - Secure system development
 
-interests:
+Interests:
   - Applied Machine Learning
   - Full Stack Engineering
   - Scalable Systems
   - Cybersecurity
 
-current_work:
+Current_work:
   - Building scalable applications
   - Integrating ML into production
   - Learning cloud-native architectures
 
-philosophy: "Engineering systems that scale, perform, and remain secure".
+Philosophy: "Engineering systems that scale, perform, and remain secure".
 ```
 ----
 
