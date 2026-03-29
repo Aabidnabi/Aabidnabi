@@ -7,9 +7,11 @@
 <img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=650&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Aabid+Nabi...;A+Full+Stack+Developer;Building+Scalable+AI+Systems;Passionate+Cybersecurity+Researcher;Always+Learning+New+Things..." alt="Typing SVG" />
-<!-- Typing SVG 
+Typing SVG 
+<h2 align="center">
+<img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" />
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Aabid+Nabi;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
-</p> -->
+</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 <h2 align="left">About Me</h2>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
