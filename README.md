@@ -60,10 +60,8 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 ----
 <h3 align="center">My GitHub Public Stats</h3>
 
-<table align="left">
+<table align="center">
   <tr>
-   <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" alt="aabidnabi" />    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=aabidnabi&show_icons=true&theme=tokyonight" height="160"/>
     </td>
