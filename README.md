@@ -11,7 +11,8 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Aabid+Nabi;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 </p> --> 
-----
+
+
 <h2 align="left">🚀 About Me</h2>
 <img align = "right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </br>
 <p align="center">
@@ -55,8 +56,8 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
-----
-----
+
+
 <h3 align="center">My GitHub Public Stats</h3>
 
 <table align="center">
@@ -75,9 +76,6 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&theme=tokyonight" height="160"/>
 </p>
 
-----
-
-----
 <h3 align="center">Social Links: </h3>
 <p align="center">
  <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
