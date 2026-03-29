@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=00FF00&center=true&vCenter=true&width=800&lines=aabid@system:~$+initialize+profile;aabid@system:~$+loading+modules...;aabid@system:~$+cat+about.yaml;aabid@system:~$+rendering+output..." />
 </p>
 
+
 ```bash
-aabid@system:~$ 
+aabidnabi@system:~$ 
 
 Name: Aabid Nabi
 Role: Software Engineer | Scalable Systems & AI
@@ -49,7 +49,6 @@ Current_work:
 
 Philosophy:
   "Performance is engineered. Security is enforced. Scalability is designed."
-----
 ```
 <h3 align="center">
   <p color="red">Tech Stack: </p>
