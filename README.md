@@ -32,17 +32,9 @@ focus:
   - Performance optimization and scalability
   - Secure system development
 
-cloud:
-  - Microsoft Azure
-  - Google Cloud
-
-core_strengths:
-  - Data Structures and Algorithms
-  - Full Stack Engineering
-  - Secure Coding Practices
-
 interests:
   - Applied Machine Learning
+  - Full Stack Engineering
   - Scalable Systems
   - Cybersecurity
 
