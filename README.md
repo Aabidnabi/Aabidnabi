@@ -21,12 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=$+cat+about_aabid.yaml;$+loading+profile...;$+initializing+systems..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=00FF00&center=true&vCenter=true&width=800&lines=aabid@system:~$+initialize+profile;aabid@system:~$+loading+modules...;aabid@system:~$+cat+about.yaml;aabid@system:~$+rendering+output..." />
 </p>
 
-```yaml
+```bash
+aabid@system:~$ cat about.yaml
+
 Name: Aabid Nabi
-Role: Software Developer | Building Scalable Software & AI Systems
+Role: Software Engineer | Scalable Systems & AI
 
 Focus:
   - Production-grade system design
@@ -37,18 +39,18 @@ Focus:
 Interests:
   - Applied Machine Learning
   - Full Stack Engineering
-  - Scalable Systems
+  - Distributed Systems
   - Cybersecurity
 
 Current_work:
-  - Building scalable applications
-  - Integrating ML into production
-  - Learning LLM + AI Integration + LangChain + cloud-native architectures
+  - Building scalable end-to-end systems
+  - Integrating ML into production pipelines
+  - Exploring LLMs, LangChain, and cloud-native architectures
 
-Philosophy: "Engineering systems that scale, perform, and remain secure"
-```
+Philosophy:
+  "Performance is engineered. Security is enforced. Scalability is designed."
 ----
-
+```
 <h3 align="center">
   <p color="red">Tech Stack: </p>
 </h3>
@@ -56,7 +58,6 @@ Philosophy: "Engineering systems that scale, perform, and remain secure"
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
-
 ----
 <!-- <h3 align="center">My GitHub Public Stats</h3>
 <table align="center">
