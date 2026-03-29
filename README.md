@@ -11,6 +11,8 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Aabid+Nabi;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 </p> --> 
+
+
 <h2 align="center">🚀 About Me</h2>
 
 <table>
@@ -26,9 +28,7 @@ I am a software engineer focused on designing <b>production-grade systems</b> wi
 
 I combine <b>full stack engineering</b> with <b>applied machine learning</b> to solve real-world problems.
 </p>
-
     </td>
-
     <td width="35%" align="right">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
     </td>
