@@ -11,15 +11,29 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Aabid+Nabi;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 </p> --> 
-
-
 <h2 align="center">🚀 About Me</h2>
-<img align = "right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </br>
-<p align="center">
-<img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blueviolet?style=flat-square&logo=react" width="200" height="30" />
-<img src="https://img.shields.io/badge/Computer%20Science-Graduate-brightgreen?style=flat-square&logo=academia" width="230" height="30" />
-<img src="https://img.shields.io/badge/AI%20%26%20LLM-Learning%20%26%20Building-orange?style=flat-square&logo=tensorflow" width="230" height="30" />
+
+<table>
+  <tr>
+    <td width="65%">
+
+<p>
+I am a software engineer focused on designing <b>production-grade systems</b> with strong emphasis on:
+
+- Clean architecture and maintainability  
+- Performance optimization and scalability  
+- Secure system design principles  
+
+I combine <b>full stack engineering</b> with <b>applied machine learning</b> to solve real-world problems.
 </p>
+
+    </td>
+
+    <td width="35%" align="right">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
+    </td>
+  </tr>
+</table>
 
 ----
 <!-- YAML-Style Introduction -->
