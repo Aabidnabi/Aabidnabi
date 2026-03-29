@@ -25,7 +25,7 @@
 
 
 ```bash
-aabidnabi@system:~$ 
+aabidnabi@terminal:~$ 
 
 Name: Aabid Nabi
 Role: Software Engineer | Scalable Systems & AI
