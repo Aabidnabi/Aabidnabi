@@ -52,11 +52,11 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
   <p color="red">Tech Stack: </p>
 </h3>
 
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
 
+----
 <h3 align="left">My Github Public Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" alt="aabidnabi" /></p>
@@ -65,8 +65,8 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&" alt="aabidnabi" /></p>
 
+----
 <h3 align="center">Social Links: </h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/aabid-nabi-031267184">
     <img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&style=plastic&color=black" width="70" height="auto" />
@@ -80,21 +80,19 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
   <a href="https://aabidnabi.tech/">
     <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black" width="90" height="auto" />
   </a>
+ <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/aabid__nabi">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge" />
+  </a>
+  <a href="https://fb.com/aabid-nabi">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/aabid__nabi_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
+  </a>
+
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-
-
-<h3 align="left">Connect with me  🤝::</h3>
-<p align="left">
- <a href="https://linkedin.com/in/aabid-nabi-031267184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabid-nabi-031267184" height="30" width="40" /></a>
-<a href="https://x.com/aabid__nabi" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabid__nabi" height="30" width="40" /></a>
-<a href="https://fb.com/aabid nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aabid nabi" height="30" width="40" /></a>
-  <a href="https://instagram.com/aabid__nabi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aabid_nabi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aabidtantry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aabid22" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tantryinfo98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tantryinfo98" height="30" width="40" /></a>
- <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cscodehubtutorials9923" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/aabid_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aabid_21" height="30" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/aabid__nabi" target="blank"><img src="https://img.shields.io/twitter/follow/aabid__nabi?logo=twitter&style=for-the-badge" alt="aabid__nabi" /></a> </p>
