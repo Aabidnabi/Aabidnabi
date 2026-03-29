@@ -20,12 +20,13 @@
 <img src="https://img.shields.io/badge/AI%20%26%20LLM-Learning%20%26%20Building-orange?style=flat-square&logo=tensorflow" width="230" height="30" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=$+cat+about_aabid.yaml;$+loading+profile...;$+initializing+systems..." />
+</p>
 
-----
-<!-- YAML-Style Introduction -->
 ```yaml
 Name: Aabid Nabi
-Role: Software Developer | Building Scalable Software & AI Systems 
+Role: Software Developer | Building Scalable Software & AI Systems
 
 Focus:
   - Production-grade system design
@@ -42,10 +43,9 @@ Interests:
 Current_work:
   - Building scalable applications
   - Integrating ML into production
-  -  Learning LLM + AI Integration 🤖 + LangChain + cloud-native architectures
+  - Learning LLM + AI Integration + LangChain + cloud-native architectures
 
-
-Philosophy: "Engineering systems that scale, perform, and remain secure".
+Philosophy: "Engineering systems that scale, perform, and remain secure"
 ```
 ----
 
