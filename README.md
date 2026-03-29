@@ -63,9 +63,6 @@ Philosophy:
 <table align="center">
   <tr>
     <td style="width:20px;"></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&layout=compact&theme=tokyonight" height="160"/>
-    </td>
   </tr>
 </table>
 <p align="center">
