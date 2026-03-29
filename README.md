@@ -20,46 +20,7 @@
 <img src="https://img.shields.io/badge/AI%20%26%20LLM-Learning%20%26%20Building-orange?style=flat-square&logo=tensorflow" width="230" height="30" />
 </p>
 
-## 🚀 About Me
 
-I am a software engineer focused on designing **production-grade systems** with strong emphasis on:
-
-- Clean architecture and maintainability  
-- Performance optimization and scalability  
-- Secure system design principles  
-
-I combine **full stack engineering** with **applied machine learning** to solve real-world problems.
-
----
-
-## 🧠 Core Expertise
-
-- **Frontend:** React, Next.js  
-- **Programming Languages:** Python,Java, C/C++  
-- **System Design:** Scalable architectures, distributed systems  
-- **Cloud:** Microsoft Azure, Google Cloud  
-- **Security:** Secure coding practices, basic vulnerability assessment  
-- **CS Fundamentals:** Data Structures and Algorithms  
-
----
-
-## 🔍 Areas of Interest
-
-- Software Engineering and Full Stack Systems  
-- Machine Learning for real-world applications  
-- Scalable and Distributed Systems  
-- Cybersecurity in application development  
-
----
-
-## 🛠️ What I'm Currently Working On
-
-- Building **end-to-end scalable web applications**  
-- Strengthening **DSA and system design fundamentals**  
-- Exploring **ML integration in production systems**  
-- Learning **cloud-native architectures**
-
----
 
 ## 🤝 Open to Collaborate
 
