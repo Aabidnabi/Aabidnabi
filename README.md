@@ -68,17 +68,17 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 ----
 <h3 align="center">Social Links: </h3>
 <p align="center">
-  <a href="https://linkedin.com/in/aabid-nabi-031267184">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?logo=linkedin&style=plastic&color=black" width="70" height="auto" />
+ <a href="https://linkedin.com/in/aabid-nabi-031267184">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:tantryinfo98@gmail.com">
-    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black" width="60" height="auto" />
+    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black"  height="auto" />
   </a>
   <a href="https://leetcode.com/aabidtantry">
-    <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" width="100" height="auto" />
+    <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black"  height="auto" />
   </a>
   <a href="https://aabidnabi.tech/">
-    <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black" width="90" height="auto" />
+    <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black"  height="auto" />
   </a>
  <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" />
