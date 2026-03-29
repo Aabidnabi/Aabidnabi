@@ -1,13 +1,12 @@
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Aabidnabi&color=blueviolet&style=square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aabidnabi&color=blueviolet&style=square" alt="Profile Views" />
 </p>
 
 <h2 align="center">
 <img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" />
-   
-   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I+am+Aabid+Nabi...;A+Full+Stack+Developer;Always+Learning+New+Things..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=600&duration=3200&color=FF5733&center=true&vCenter=true&width=700&height=105&lines=Hi%2C+I'm+Aabid+Nabi;Full+Stack+Engineer+%7C+Clean+Architecture+Focused;Building+Scalable+%26+Secure+Systems;React+%2B+Next.js+%7C+Python+%7C+Java+%7C+C%2FC%2B%2B;Cloud+%26+Distributed+Systems+%28Azure+%2B+GCP%29;Applying+DSA+for+High-Performance+Applications;Exploring+ML+for+Real-World+Problems;Engineering+Production-Grade+Solutions" alt="Typing SVG" />
+</h2>
 
 <!-- Typing SVG -->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Aabid+Nabi;+%40I+am+a+CS+Engineering+Graduate;+%40Frontend+Web+Developer+;+%40Aspiring+Full+Stack+Developer;+%40Passionate+Cyber+Security+Enthausist;" alt="Typing SVG" /></a>
