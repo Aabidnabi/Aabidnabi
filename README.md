@@ -69,7 +69,7 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 <h3 align="center">Social Links: </h3>
 <p align="center">
  <a href="https://linkedin.com/in/aabid-nabi-031267184">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge"  height="auto"/>
   </a>
   <a href="mailto:tantryinfo98@gmail.com">
     <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black"  height="auto" />
@@ -81,16 +81,16 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
     <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black"  height="auto" />
   </a>
  <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge"  height="auto" />
   </a>
   <a href="https://x.com/aabid__nabi">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge"  height="auto" />
   </a>
   <a href="https://fb.com/aabid-nabi">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge"   height="auto"/>
   </a>
   <a href="https://instagram.com/aabid__nabi_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge"  height="auto" />
   </a>
 
 </p>
