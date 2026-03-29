@@ -57,15 +57,20 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 </p>
 
 ----
-<h3 align="left">My Github Public Stats:</h3>
+<h3 align="center">My GitHub Public Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabidnabi&show_icons=true&locale=en" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" height="160" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" alt="aabidnabi" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi" height="160" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aabidnabi&show_icons=true&locale=en" alt="aabidnabi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&" alt="aabidnabi" /></p>
 
 ----
+
+
 <h3 align="center">Social Links: </h3>
 <p align="center">
  <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
