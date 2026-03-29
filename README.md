@@ -62,9 +62,6 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aabidnabi&show_icons=true&theme=tokyonight" height="160"/>
-    </td>
     <td style="width:20px;"></td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&layout=compact&theme=tokyonight" height="160"/>
