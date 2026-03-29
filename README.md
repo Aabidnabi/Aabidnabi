@@ -19,10 +19,13 @@
 <img src="https://img.shields.io/badge/Computer%20Science-Graduate-brightgreen?style=flat-square&logo=academia" width="230" height="30" />
 <img src="https://img.shields.io/badge/AI%20%26%20LLM-Learning%20%26%20Building-orange?style=flat-square&logo=tensorflow" width="230" height="30" />
 </p>
+
+----
 <!-- YAML-Style Introduction -->
 ```yaml
 name: Aabid Nabi
 role: Software Engineer
+
 focus:
   - Production-grade system design
   - Clean architecture and maintainability
@@ -37,9 +40,10 @@ tech_stack:
     - Python
     - Java
     - C/C++
-  cloud:
-    - Microsoft Azure
-    - Google Cloud
+
+cloud:
+  - Microsoft Azure
+  - Google Cloud
 
 core_strengths:
   - Data Structures and Algorithms
@@ -50,18 +54,16 @@ core_strengths:
 interests:
   - Applied Machine Learning
   - Scalable Systems
-  - Cybersecurity in Software Engineering
+  - Cybersecurity
 
 current_work:
-  - Building scalable end-to-end applications
-  - Integrating ML into production systems
-  - Advancing system design expertise
-  - Exploring cloud-native architectures
+  - Building scalable applications
+  - Integrating ML into production
+  - Learning cloud-native architectures
 
-philosophy: "Engineering systems that are scalable, secure, and built to last"
-``
-
-
+philosophy: "Engineering systems that scale, perform, and remain secure".
+```
+----
 
 ## 🤝 Open to Collaborate
 
@@ -71,8 +73,6 @@ I am actively looking to collaborate on:
 - Data Science and ML Applications  
 - Scalable Backend Systems  
 
----
-
 ## 💬 Ask Me About
 
 - Full Stack Development  
@@ -80,13 +80,10 @@ I am actively looking to collaborate on:
 - Cybersecurity fundamentals  
 - Freelancing and project building  
 
----
-
 ## 🌐 Portfolio
 
 🔗 [Visit my portfolio](https://portfolioaabid.vercel.app)
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
