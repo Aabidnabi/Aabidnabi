@@ -54,7 +54,7 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cplusplus,c,html,css,js,bootstrap,react,nextjs,nodejs,expressjs,mongodb,mysql,tailwind,docker,postman,webflow,git,github,scss,figma,canva,latex&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c++,c,java,html,css,js,bootstrap,react,nextjs,nodejs,expressjs,mongodb,mysql,tailwind,docker,postman,webflow,git,github,scss,figma,canva,latex&perline=10" />
 </p>
 
 
