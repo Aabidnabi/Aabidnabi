@@ -5,9 +5,11 @@
 
 <h2 align="center">
 <table align="center">
-<img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" />
+
   <tr>
     <td>
+    <img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" />
+    <td width="30"></td>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=500&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Aabid+Nabi...;A+Full+Stack+Developer;Building+Scalable+AI+Systems;Passionate+Cybersecurity+Researcher;Always+Learning+New+Things..." />
     </td>
     <td width="30"></td>
