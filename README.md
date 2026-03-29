@@ -25,7 +25,7 @@
 </p>
 
 ```bash
-aabid@system:~$ cat about.yaml
+aabid@system:~$ 
 
 Name: Aabid Nabi
 Role: Software Engineer | Scalable Systems & AI
