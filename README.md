@@ -68,28 +68,28 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 ----
 <h3 align="center">Social Links: </h3>
 <p align="center">
- <a href="https://linkedin.com/in/aabid-nabi-031267184">
+ <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" width="80" height="auto"/>
   </a>
- <a href="https://aabidnabi.tech/">
+ <a href="https://aabidnabi.tech/"  target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-white?logo=firefox&style=plastic&color=black" width="80"  height="auto" />
   </a>
-  <a href="mailto:tantryinfo98@gmail.com">
+  <a href="mailto:tantryinfo98@gmail.com" >
     <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black" height="auto" />
   </a>
-  <a href="https://leetcode.com/aabidtantry">
+  <a href="https://leetcode.com/aabidtantry"  target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" width="80"  height="auto" />
   </a>
- <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3">
+ <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3"  target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" width="80"  height="auto" />
   </a>
-  <a href="https://x.com/aabid__nabi">
+  <a href="https://x.com/aabid__nabi"  target="_blank">
     <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge"  height="auto" />
   </a>
-  <a href="https://fb.com/aabid-nabi">
+  <a href="https://fb.com/aabid-nabi"  target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" width="80"   height="auto"/>
   </a>
-  <a href="https://instagram.com/aabid__nabi_">
+  <a href="https://instagram.com/aabid__nabi_"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" width="80"  height="auto" />
   </a>
 
