@@ -58,7 +58,7 @@ Philosophy:
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
 
-<!-- <h3 align="center">My GitHub Public Stats</h3>
+<h3 align="center">My GitHub Public Stats</h3>
 <table align="center">
   <tr>
     <td style="width:20px;"></td>
@@ -70,7 +70,8 @@ Philosophy:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&theme=tokyonight" height="160"/>
 </p>
--->
+
+---
 <h3 align="center">Social Links: </h3>
 <p align="center">
  <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
