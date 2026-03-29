@@ -58,6 +58,7 @@ Philosophy:
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
 
+---
 <h3 align="center">My GitHub Public Stats</h3>
 <table align="center">
   <tr>
