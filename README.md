@@ -2,8 +2,6 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Aabidnabi&color=blueviolet&style=square" alt="Profile Views" />
 </p>
-<h2 align="center">Hello, World</h2>
-
 <table align="center">
   <tr>
     <!-- Left Icon -->
