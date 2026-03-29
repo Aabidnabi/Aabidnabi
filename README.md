@@ -64,13 +64,13 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
   <tr>
     <td style="width:20px;"></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aabidnabi&layout=compact&theme=tokyonight" height="160"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&layout=compact&theme=tokyonight" height="160"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aabidnabi&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&theme=tokyonight" height="160"/>
 </p>
 
 <h3 align="center">Social Links: </h3>
