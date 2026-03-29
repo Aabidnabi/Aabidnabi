@@ -58,8 +58,7 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 </p>
 
 ----
-<h3 align="center">My GitHub Public Stats</h3>
-
+<!-- <h3 align="center">My GitHub Public Stats</h3>
 <table align="center">
   <tr>
     <td style="width:20px;"></td>
@@ -68,11 +67,10 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
     </td>
   </tr>
 </table>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&theme=tokyonight" height="160"/>
 </p>
-
+-->
 <h3 align="center">Social Links: </h3>
 <p align="center">
  <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
