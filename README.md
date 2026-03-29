@@ -32,22 +32,12 @@ focus:
   - Performance optimization and scalability
   - Secure system development
 
-tech_stack:
-  frontend:
-    - React
-    - Next.js
-  languages:
-    - Python
-    - Java
-    - C/C++
-
 cloud:
   - Microsoft Azure
   - Google Cloud
 
 core_strengths:
   - Data Structures and Algorithms
-  - Distributed Systems
   - Full Stack Engineering
   - Secure Coding Practices
 
