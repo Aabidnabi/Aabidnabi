@@ -19,7 +19,47 @@
 <img src="https://img.shields.io/badge/Computer%20Science-Graduate-brightgreen?style=flat-square&logo=academia" width="230" height="30" />
 <img src="https://img.shields.io/badge/AI%20%26%20LLM-Learning%20%26%20Building-orange?style=flat-square&logo=tensorflow" width="230" height="30" />
 </p>
+<!-- YAML-Style Introduction -->
+```yaml
+name: Aabid Nabi
+role: Software Engineer
+focus:
+  - Production-grade system design
+  - Clean architecture and maintainability
+  - Performance optimization and scalability
+  - Secure system development
 
+tech_stack:
+  frontend:
+    - React
+    - Next.js
+  languages:
+    - Python
+    - Java
+    - C/C++
+  cloud:
+    - Microsoft Azure
+    - Google Cloud
+
+core_strengths:
+  - Data Structures and Algorithms
+  - Distributed Systems
+  - Full Stack Engineering
+  - Secure Coding Practices
+
+interests:
+  - Applied Machine Learning
+  - Scalable Systems
+  - Cybersecurity in Software Engineering
+
+current_work:
+  - Building scalable end-to-end applications
+  - Integrating ML into production systems
+  - Advancing system design expertise
+  - Exploring cloud-native architectures
+
+philosophy: "Engineering systems that are scalable, secure, and built to last"
+```
 
 
 ## 🤝 Open to Collaborate
