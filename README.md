@@ -60,11 +60,6 @@ Philosophy:
 
 ---
 <h3 align="center">My GitHub Public Stats</h3>
-<table align="center">
-  <tr>
-    <td style="width:20px;"></td>
-  </tr>
-</table>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi&theme=tokyonight" height="160"/>
 </p>
