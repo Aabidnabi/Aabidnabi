@@ -12,11 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidnabi&label=Profile%20views&color=0e75b6&style=flat" alt="aabidnabi" /> </p>
 </p> --> 
 
-<h2 align="left">About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<h3 align="center">🚀 About Me</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Passionate%20Learner-blueviolet?style=flat-square&logo=react" width="180" height="30" />
   <img src="https://img.shields.io/badge/-Computer%20Science%20Undergrad-brightgreen?style=flat-square&logo=graduation-cap" width="230" height="30" />
