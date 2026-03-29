@@ -72,7 +72,7 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" width="80" height="auto"/>
   </a>
   <a href="mailto:tantryinfo98@gmail.com">
-    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black" width="80" height="auto" />
+    <img src="https://img.shields.io/badge/-Mail-black?logo=gmail&style=plastic&color=black" height="auto" />
   </a>
   <a href="https://leetcode.com/aabidtantry">
     <img src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode&style=plastic&color=black" width="80"  height="auto" />
@@ -84,7 +84,7 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" width="80"  height="auto" />
   </a>
   <a href="https://x.com/aabid__nabi">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge" width="80" height="auto" />
+    <img src="https://img.shields.io/badge/X-000000?logo=x&style=for-the-badge"  height="auto" />
   </a>
   <a href="https://fb.com/aabid-nabi">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge" width="80"   height="auto"/>
