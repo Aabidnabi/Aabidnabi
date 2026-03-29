@@ -28,7 +28,7 @@
 aabidnabi@terminal:~$ 
 
 Name: Aabid Nabi
-Role: Software Engineer | Scalable Systems & AI
+Role: Web Developer | Scalable Systems & AI
 
 Focus:
   - Production-grade system design
@@ -47,7 +47,7 @@ Current_work:
   - Integrating ML into production pipelines
   - Exploring LLMs, LangChain, and cloud-native architectures
 
-Philosophy:
+Quote:
   "Performance is engineered. Security is enforced. Scalability is designed."
 ```
 <h3 align="center">
