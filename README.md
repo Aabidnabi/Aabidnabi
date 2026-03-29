@@ -16,8 +16,8 @@
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center">
   <img src="https://img.shields.io/badge/-Passionate%20Learner-blueviolet?style=flat-square&logo=react" width="180" height="30" />
-  <img src="https://img.shields.io/badge/-Computer%20Science%20Undergrad-brightgreen?style=flat-square&logo=graduation-cap" width="230" height="30" />
-  <img src="https://img.shields.io/badge/-Learning%20LLM%20%26%20LangChain-orange?style=flat-square&logo=javascript" width="230" height="30" />
+  <img src="https://img.shields.io/badge/-Computer%20Science%20Graduate-brightgreen?style=flat-square&logo=graduation-cap" width="230" height="30" />
+  <img src="https://img.shields.io/badge/-Learning%20LLM%20%26%20Artificial+Intelligence+LLM+-orange?style=flat-square&logo=artificialintelligence" width="230" height="30" />
 </p>
 
 ## 🚀 About Me
