@@ -58,7 +58,8 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 
 ----
 <h3 align="center">My GitHub Public Stats</h3>
-<p align="center">
+
+<p align="center" style="display:flex; justify-content:center; gap:20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aabidnabi&show_icons=true&locale=en" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" height="160" />
 </p>
@@ -66,8 +67,6 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidnabi" height="160" />
 </p>
-
-
 ----
 
 
