@@ -41,7 +41,8 @@ Interests:
 Current_work:
   - Building scalable applications
   - Integrating ML into production
-  - Learning cloud-native architectures
+  -  Learning LLM + AI Integration 🤖 + LangChain + cloud-native architectures
+
 
 Philosophy: "Engineering systems that scale, perform, and remain secure".
 ```
