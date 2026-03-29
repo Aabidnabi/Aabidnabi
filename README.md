@@ -57,30 +57,6 @@ Philosophy: "Engineering systems that scale, perform, and remain secure".
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
 
-
-## 🤝 Open to Collaborate
-
-I am actively looking to collaborate on:
-
-- Full Stack Development Projects  
-- Data Science and ML Applications  
-- Scalable Backend Systems  
-
-## 💬 Ask Me About
-
-- Full Stack Development  
-- System Design  
-- Cybersecurity fundamentals  
-- Freelancing and project building  
-
-## 🌐 Portfolio
-
-🔗 [Visit my portfolio](https://portfolioaabid.vercel.app)
-
-
-
-<br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <h3 align="left">My Github Public Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidnabi&show_icons=true&locale=en&layout=compact" alt="aabidnabi" /></p>
