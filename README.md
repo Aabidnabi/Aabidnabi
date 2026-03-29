@@ -59,7 +59,8 @@ current_work:
   - Exploring cloud-native architectures
 
 philosophy: "Engineering systems that are scalable, secure, and built to last"
-```
+``
+
 
 
 ## 🤝 Open to Collaborate
