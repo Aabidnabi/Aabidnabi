@@ -33,7 +33,7 @@
 aabidnabi@terminal:~$ 
 
 Name: Aabid Nabi
-Role: Web Developer | Scalable Systems & AI
+Role: Software Developer | Scalable Systems & AI
 
 Focus:
   - Production-grade system design
