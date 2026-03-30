@@ -74,17 +74,6 @@ Quote:
 </div>
 
 ---
-
-<div align="center">
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!+👋" />
-</h1>
-</div>
-
-
-
-
----
 <h3 align="center">Social Links: </h3>
 <p align="center">
  <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
@@ -111,7 +100,13 @@ Quote:
   <a href="https://instagram.com/aabid__nabi_"  target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" width="80"  height="auto" />
   </a>
-
 </p>
+
+----
+<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!+👋" />
+</h1>
+</div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
