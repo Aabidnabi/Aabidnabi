@@ -22,12 +22,10 @@
       @keyframes fadeIn   { from { opacity: 0; } to { opacity: 1; } }
       @keyframes slideIn  { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
       @keyframes blink    { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-
       .c  { opacity: 0; animation: fadeIn 0.01s forwards; }
       .c1 { animation-delay: 0.40s; } .c2 { animation-delay: 0.55s; }
       .c3 { animation-delay: 0.70s; } .c4 { animation-delay: 0.85s; }
       .c5 { animation-delay: 1.00s; } .c6 { animation-delay: 1.15s; }
-
       .ln { opacity: 0; animation: slideIn 0.25s ease forwards; }
       .l1  { animation-delay: 1.55s; } .l2  { animation-delay: 1.80s; }
       .l3  { animation-delay: 2.10s; } .l4  { animation-delay: 2.35s; }
@@ -39,22 +37,18 @@
       .l15 { animation-delay: 4.65s; } .l16 { animation-delay: 4.85s; }
       .l17 { animation-delay: 5.10s; } .l18 { animation-delay: 5.30s; }
       .l19 { animation-delay: 5.55s; }
-
       .cur-init { animation: blink 0.9s step-end 2; }
       .cur-end  { opacity: 0; animation: fadeIn 0.01s forwards 5.55s, blink 0.9s step-end infinite 5.55s; }
     </style>
-
     <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
       <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.03"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
-
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
     <clipPath id="windowClip">
       <rect width="800" height="565" rx="12"/>
     </clipPath>
@@ -64,21 +58,17 @@
     <rect width="800" height="565" fill="#0d1117"/>
     <line x1="0" y1="44" x2="800" y2="44" stroke="#1e2430" stroke-width="1"/>
     <rect width="800" height="44" fill="#161b22"/>
-
     <circle cx="22" cy="22" r="7" fill="#ff5f57"/>
     <circle cx="44" cy="22" r="7" fill="#ffbd2e"/>
     <circle cx="66" cy="22" r="7" fill="#28c840"/>
-
     <text x="400" y="27" text-anchor="middle"
           font-family="'SF Mono','Courier New',monospace" font-size="12" fill="#484f58">
       aabidnabi — terminal — 80×24
     </text>
-
     <rect x="0" y="44" width="800" height="100" fill="url(#scanGrad)" opacity="0.4">
       <animateTransform attributeName="transform" type="translate" from="0 0" to="0 521"
         dur="4s" begin="0s" repeatCount="indefinite"/>
     </rect>
-
     <text y="75" font-family="'Courier New',monospace" font-size="14" filter="url(#glow)">
       <tspan x="20" fill="#3fb950">aabidnabi</tspan>
       <tspan fill="#8b949e">@</tspan>
@@ -94,7 +84,6 @@
       <tspan class="c c6" fill="#e6edf3">i</tspan>
     </text>
     <rect x="196" y="61" width="9" height="16" fill="#3fb950" class="cur-init"/>
-
     <text x="20" y="106" font-family="'Courier New',monospace" font-size="13" class="ln l1">
       <tspan fill="#79c0ff">Name</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Aabid Nabi</tspan>
     </text>
@@ -106,7 +95,6 @@
       <tspan fill="#ff7b72">&amp;</tspan>
       <tspan fill="#e6edf3"> AI</tspan>
     </text>
-
     <text x="20" y="151" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l3">Focus:</text>
     <text x="20" y="169" font-family="'Courier New',monospace" font-size="13" class="ln l4">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Production-grade system design</tspan>
@@ -120,7 +108,6 @@
     <text x="20" y="223" font-family="'Courier New',monospace" font-size="13" class="ln l7">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Secure system development</tspan>
     </text>
-
     <text x="20" y="250" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l8">Interests:</text>
     <text x="20" y="268" font-family="'Courier New',monospace" font-size="13" class="ln l9">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Applied Machine Learning</tspan>
@@ -134,7 +121,6 @@
     <text x="20" y="322" font-family="'Courier New',monospace" font-size="13" class="ln l12">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Cybersecurity</tspan>
     </text>
-
     <text x="20" y="349" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l13">Current_Work:</text>
     <text x="20" y="367" font-family="'Courier New',monospace" font-size="13" class="ln l14">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Building scalable end-to-end systems</tspan>
@@ -145,12 +131,10 @@
     <text x="20" y="403" font-family="'Courier New',monospace" font-size="13" class="ln l16">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Exploring LLMs, LangChain &amp; cloud-native architectures</tspan>
     </text>
-
     <text x="20" y="430" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l17">Quote:</text>
     <text x="20" y="450" font-family="'Courier New',monospace" font-size="13" fill="#e3b341" class="ln l18">
       "Performance is engineered. Security is enforced. Scalability is designed."
     </text>
-
     <text y="482" font-family="'Courier New',monospace" font-size="14" class="ln l19" filter="url(#glow)">
       <tspan x="20" fill="#3fb950">aabidnabi</tspan>
       <tspan fill="#8b949e">@</tspan>
@@ -160,7 +144,6 @@
       <tspan fill="#c9d1d9">$ </tspan>
     </text>
     <rect x="196" y="468" width="9" height="16" fill="#3fb950" class="cur-end"/>
-
     <line x1="20" y1="555" x2="780" y2="555" stroke="#1e2430" stroke-width="1"/>
   </g>
 </svg>
