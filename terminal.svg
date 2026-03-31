@@ -51,7 +51,7 @@
     <circle cx="62" cy="22" r="6" fill="#28c840"/>
     <text x="400" y="28" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">aabidnabi — terminal</text>
 
-    <text x="20" y="75" font-family="monospace" font-size="14">
+    <text x="20" y="75" font-family="monospace" font-size="12">
       <tspan fill="#3fb950">aabidnabi</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#58a6ff">terminal</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan>
       <tspan class="c c1" fill="#e6edf3">w</tspan><tspan class="c c2" fill="#e6edf3">h</tspan><tspan class="c c3" fill="#e6edf3">o</tspan><tspan class="c c4" fill="#e6edf3">a</tspan><tspan class="c c5" fill="#e6edf3">m</tspan><tspan class="c c6" fill="#e6edf3">i</tspan>
     </text>
