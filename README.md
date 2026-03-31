@@ -56,7 +56,7 @@ Quote:
   "Performance is engineered. Security is enforced. Scalability is designed."
 ```
 
---- 
+----
 <h3 align="center">
   <p color="red">Tech Stack: </p>
 </h3>
@@ -64,8 +64,9 @@ Quote:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
----
 
+
+----
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -75,7 +76,9 @@ Quote:
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aabidnabi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
+----
+
+
 <h3 align="center">Social Links: </h3>
 <p align="center">
  <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
