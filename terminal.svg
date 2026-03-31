@@ -43,7 +43,7 @@
   </defs>
 
   <g clip-path="url(#roundCorner)">
-    <rect width="800" height="480" fill="#0d1117"/>
+    <rect width="800" height="400" fill="#0d1117"/>
     
     <rect width="800" height="44" fill="#161b22"/>
     <circle cx="22" cy="22" r="6" fill="#ff5f57"/>
@@ -56,7 +56,7 @@
       <tspan class="c c1" fill="#e6edf3">w</tspan><tspan class="c c2" fill="#e6edf3">h</tspan><tspan class="c c3" fill="#e6edf3">o</tspan><tspan class="c c4" fill="#e6edf3">a</tspan><tspan class="c c5" fill="#e6edf3">m</tspan><tspan class="c c6" fill="#e6edf3">i</tspan>
     </text>
 
-    <g font-family="monospace" font-size="13">
+    <g font-family="monospace" font-size="10">
       <text x="20" y="105" class="ln l1"><tspan fill="#79c0ff">Name</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Aabid Nabi</tspan></text>
       <text x="20" y="125" class="ln l2"><tspan fill="#79c0ff">Role</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Software Developer | Scalable Systems &amp; AI</tspan></text>
       
@@ -75,7 +75,7 @@
       <text x="20" y="375" fill="#e3b341" class="ln l13">"Performance is engineered. Security is enforced. Scalability is designed."</text>
     </g>
 
-    <text x="20" y="420" font-family="monospace" font-size="14" class="ln l-final">
+    <text x="20" y="420" font-family="monospace" font-size="12" class="ln l-final">
       <tspan fill="#3fb950">aabidnabi</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#58a6ff">terminal</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan>
       <tspan class="c e1" fill="#e6edf3">e</tspan><tspan class="c e2" fill="#e6edf3">x</tspan><tspan class="c e3" fill="#e6edf3">i</tspan><tspan class="c e4" fill="#e6edf3">t</tspan>
     </text>
