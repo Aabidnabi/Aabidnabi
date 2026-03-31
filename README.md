@@ -56,6 +56,7 @@ Quote:
   "Performance is engineered. Security is enforced. Scalability is designed."
 ```
 
+--- 
 <h3 align="center">
   <p color="red">Tech Stack: </p>
 </h3>
