@@ -1,41 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 480" width="100%">
   <defs>
     <style>
       @keyframes fadeIn   { from { opacity: 0; } to { opacity: 1; } }
       @keyframes slideIn  { from { opacity: 0; transform: translateY(2px); } to { opacity: 1; transform: translateY(0); } }
       @keyframes blink    { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
+      /* Typing Animation */
       .c  { opacity: 0; animation: fadeIn 0.01s forwards; }
       .c1 { animation-delay: 0.2s; } .c2 { animation-delay: 0.3s; }
       .c3 { animation-delay: 0.4s; } .c4 { animation-delay: 0.5s; }
       .c5 { animation-delay: 0.6s; } .c6 { animation-delay: 0.7s; }
 
-      .ln { opacity: 0; animation: slideIn 0.3s ease-out forwards; }
-      .l1  { animation-delay: 1.0s; } .l2  { animation-delay: 1.1s; }
-      .l3  { animation-delay: 1.2s; } .l4  { animation-delay: 1.3s; }
-      .l5  { animation-delay: 1.4s; } .l6  { animation-delay: 1.5s; }
-      .l7  { animation-delay: 1.6s; } .l8  { animation-delay: 1.7s; }
-      .l9  { animation-delay: 1.8s; } .l10 { animation-delay: 1.9s; }
+      /* Output Lines */
+      .ln { opacity: 0; animation: slideIn 0.2s ease-out forwards; }
+      .l1  { animation-delay: 0.9s; }  .l2  { animation-delay: 1.0s; }
+      .l3  { animation-delay: 1.1s; }  .l4  { animation-delay: 1.2s; }
+      .l5  { animation-delay: 1.3s; }  .l6  { animation-delay: 1.4s; }
+      .l7  { animation-delay: 1.5s; }  .l8  { animation-delay: 1.6s; }
+      .l9  { animation-delay: 1.7s; }  .l10 { animation-delay: 1.8s; }
+      .l11 { animation-delay: 1.9s; }  .l12 { animation-delay: 2.0s; }
+      .l13 { animation-delay: 2.1s; }  .l14 { animation-delay: 2.2s; }
+      .l15 { animation-delay: 2.3s; }  .l16 { animation-delay: 2.4s; }
+      .l17 { animation-delay: 2.5s; }  .l18 { animation-delay: 2.6s; }
       
-      .l-final { animation-delay: 2.2s; }
+      .l-final { animation-delay: 2.9s; }
 
-      .e1 { animation-delay: 2.5s; } .e2 { animation-delay: 2.6s; }
-      .e3 { animation-delay: 2.7s; } .e4 { animation-delay: 2.8s; }
+      /* Exit sequence */
+      .e1 { animation-delay: 3.2s; } .e2 { animation-delay: 3.3s; }
+      .e3 { animation-delay: 3.4s; } .e4 { animation-delay: 3.5s; }
 
+      /* White Blinking Cursor */
       .cur-final { 
         fill: #ffffff;
         opacity: 0; 
-        animation: fadeIn 0.01s forwards 2.9s, blink 0.8s step-end infinite 2.9s; 
+        animation: fadeIn 0.01s forwards 3.6s, blink 0.8s step-end infinite 3.6s; 
       }
     </style>
     
     <clipPath id="roundCorner">
-      <rect width="800" height="400" rx="12"/>
+      <rect width="800" height="480" rx="12"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#roundCorner)">
-    <rect width="800" height="400" fill="#0d1117"/>
+    <rect width="800" height="480" fill="#0d1117"/>
     
     <rect width="800" height="44" fill="#161b22"/>
     <circle cx="22" cy="22" r="6" fill="#ff5f57"/>
@@ -43,31 +51,35 @@
     <circle cx="62" cy="22" r="6" fill="#28c840"/>
     <text x="400" y="28" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">aabidnabi — terminal</text>
 
-    <text x="20" y="80" font-family="monospace" font-size="14">
+    <text x="20" y="75" font-family="monospace" font-size="14">
       <tspan fill="#3fb950">aabidnabi</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#58a6ff">terminal</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan>
       <tspan class="c c1" fill="#e6edf3">w</tspan><tspan class="c c2" fill="#e6edf3">h</tspan><tspan class="c c3" fill="#e6edf3">o</tspan><tspan class="c c4" fill="#e6edf3">a</tspan><tspan class="c c5" fill="#e6edf3">m</tspan><tspan class="c c6" fill="#e6edf3">i</tspan>
     </text>
 
     <g font-family="monospace" font-size="13">
-      <text x="20" y="115" class="ln l1"><tspan fill="#79c0ff">Name</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Aabid Nabi</tspan></text>
-      <text x="20" y="135" class="ln l2"><tspan fill="#79c0ff">Role</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Software Developer | Scalable Systems &amp; AI</tspan></text>
+      <text x="20" y="105" class="ln l1"><tspan fill="#79c0ff">Name</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Aabid Nabi</tspan></text>
+      <text x="20" y="125" class="ln l2"><tspan fill="#79c0ff">Role</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Software Developer | Scalable Systems &amp; AI</tspan></text>
       
-      <text x="20" y="165" fill="#ff7b72" class="ln l3">Focus:</text>
-      <text x="35" y="185" class="ln l4" fill="#c9d1d9">› Production-grade system design</text>
-      <text x="35" y="205" class="ln l5" fill="#c9d1d9">› Clean architecture and maintainability</text>
+      <text x="20" y="155" fill="#ff7b72" class="ln l3">Focus:</text>
+      <text x="35" y="175" class="ln l4" fill="#c9d1d9">› Production-grade system design</text>
+      <text x="35" y="195" class="ln l5" fill="#c9d1d9">› Clean architecture and maintainability</text>
+      <text x="35" y="215" class="ln l6" fill="#c9d1d9">› Performance optimization and scalability</text>
+      <text x="35" y="235" class="ln l7" fill="#c9d1d9">› Secure system development</text>
       
-      <text x="20" y="235" fill="#ff7b72" class="ln l7">Interests:</text>
-      <text x="35" y="255" class="ln l8" fill="#c9d1d9">› Applied Machine Learning &amp; Distributed Systems</text>
+      <text x="20" y="265" fill="#ff7b72" class="ln l8">Interests:</text>
+      <text x="35" y="285" class="ln l9" fill="#c9d1d9">› Applied Machine Learning</text>
+      <text x="35" y="305" class="ln l10" fill="#c9d1d9">› Full Stack Engineering &amp; Distributed Systems</text>
+      <text x="35" y="325" class="ln l11" fill="#c9d1d9">› Cybersecurity</text>
       
-      <text x="20" y="285" fill="#ff7b72" class="ln l9">Quote:</text>
-      <text x="20" y="305" fill="#e3b341" class="ln l10">"Performance is engineered. Security is enforced. Scalability is designed."</text>
+      <text x="20" y="355" fill="#ff7b72" class="ln l12">Quote:</text>
+      <text x="20" y="375" fill="#e3b341" class="ln l13">"Performance is engineered. Security is enforced. Scalability is designed."</text>
     </g>
 
-    <text x="20" y="350" font-family="monospace" font-size="14" class="ln l-final">
+    <text x="20" y="420" font-family="monospace" font-size="14" class="ln l-final">
       <tspan fill="#3fb950">aabidnabi</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#58a6ff">terminal</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan>
       <tspan class="c e1" fill="#e6edf3">e</tspan><tspan class="c e2" fill="#e6edf3">x</tspan><tspan class="c e3" fill="#e6edf3">i</tspan><tspan class="c e4" fill="#e6edf3">t</tspan>
     </text>
 
-    <rect x="228" y="336" width="8" height="16" class="cur-final"/>
+    <rect x="228" y="406" width="8" height="16" class="cur-final"/>
   </g>
 </svg>
