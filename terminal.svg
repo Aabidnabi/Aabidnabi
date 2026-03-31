@@ -123,7 +123,7 @@
       <tspan class="c c5" fill="#e6edf3">m</tspan>
       <tspan class="c c6" fill="#e6edf3">i</tspan>
     </text>
-    <rect x="247" y="63" width="8" height="14" fill="#3fb950" class="cur-pre"/>
+    <rect x="247" y="63" width="8" height="14"  class="cur-pre"/>
 
     <!-- Name / Role -->
     <text x="20" y="106" font-family="'Courier New',monospace" font-size="13" class="ln l1">
