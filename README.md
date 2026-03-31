@@ -23,7 +23,8 @@
 <h3 align="center">
 <p color="red">⚒️ Tech Languages-Frameworks-Tools ⚒️  </p>
 </h3>
-<br>
+<br/>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
@@ -31,7 +32,7 @@
 ----
 
 <h2 align="center">⚡ Github Profile Stats ⚡ </h2>
-<br>
+<br/>
 <div align=center>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aabidnabi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aabidnabi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -42,7 +43,7 @@
 ----
 
 <h3 align="center">🌐 Social Links 🌐 </h3>
-<br>
+<br/>
 <p align="center">
 <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" width="80" height="auto"/>
