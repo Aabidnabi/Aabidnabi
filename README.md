@@ -21,7 +21,7 @@
 ----
 
 <h3 align="center">
-<p color="red">Tech Stack: </p>
+<p color="red">⚒️ Tech Languages-Frameworks-Tools ⚒️: </p>
 </h3>
 
 <p align="center">
