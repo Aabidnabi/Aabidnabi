@@ -44,7 +44,7 @@
     <circle cx="66" cy="22" r="7" fill="#28c840"/>
     <text x="400" y="27" text-anchor="middle"
           font-family="'SF Mono','Courier New',monospace" font-size="12" fill="#484f58">
-      aabidnabi — terminal — 50×24
+      aabidnabi — terminal 
     </text>
     <rect x="0" y="44" width="800" height="100" fill="url(#scanGrad)" opacity="0.4">
       <animateTransform attributeName="transform" type="translate" from="0 0" to="0 521"
@@ -54,7 +54,7 @@
       <tspan x="20" fill="#3fb950">aabidnabi</tspan>
       <tspan fill="#8b949e">@</tspan>
       <tspan fill="#58a6ff">terminal</tspan>
-      <tspan fill="#8b949e">:</tspan>
+      <tspan>:</tspan>
       <tspan fill="#79c0ff">~</tspan>
       <tspan fill="#c9d1d9">$ </tspan>
       <tspan class="c c1" fill="#e6edf3">w</tspan>
