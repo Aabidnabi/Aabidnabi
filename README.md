@@ -7,7 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=650&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Aabid+Nabi...;A+Full+Stack+Developer;Building+Scalable+AI+Systems;Passionate+Cybersecurity+Researcher;Always+Learning+New+Things..." alt="Typing SVG" />
 </h2>
 
-<h2 align="center">🚀 About Me </h2>
+----
+<h2 align="center">🚀 About Me 🚀 </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blueviolet?style=flat-square&logo=react" width="200" height="30" />
 <img src="https://img.shields.io/badge/Computer%20Science-Graduate-brightgreen?style=flat-square&logo=academia" width="230" height="30" />
@@ -21,7 +22,7 @@
 ----
 
 <h3 align="center">
-<p color="red">⚒️ Tech Languages-Frameworks-Tools  </p>
+<p color="red">⚒️ Tech Languages-Frameworks-Tools ⚒️  </p>
 </h3>
 
 <p align="center">
@@ -30,7 +31,7 @@
 
 ----
 
-<h2 align="center">⚡ Github Stats </h2>
+<h2 align="center">⚡ Github Profile Stats ⚡ </h2>
 <br>
 <div align=center>
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aabidnabi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -41,7 +42,7 @@
 
 ----
 
-<h3 align="center">🌐 Social Links  </h3>
+<h3 align="center">🌐 Social Links 🌐 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/aabid-nabi-031267184" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" width="80" height="auto"/>
@@ -76,7 +77,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!+👋" />
 </h1>
 </div>
-
+----
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 ```
 
