@@ -1,62 +1,121 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 565" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 530" width="100%">
   <defs>
     <style>
-      @keyframes fadeIn   { from { opacity: 0; } to { opacity: 1; } }
-      @keyframes slideIn  { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
-      @keyframes blink    { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-      .c  { opacity: 0; animation: fadeIn 0.01s forwards; }
-      .c1 { animation-delay: 0.40s; } .c2 { animation-delay: 0.55s; }
-      .c3 { animation-delay: 0.70s; } .c4 { animation-delay: 0.85s; }
-      .c5 { animation-delay: 1.00s; } .c6 { animation-delay: 1.15s; }
-      .ln { opacity: 0; animation: slideIn 0.25s ease forwards; }
-      .l1  { animation-delay: 1.55s; } .l2  { animation-delay: 1.80s; }
-      .l3  { animation-delay: 2.10s; } .l4  { animation-delay: 2.35s; }
-      .l5  { animation-delay: 2.55s; } .l6  { animation-delay: 2.75s; }
-      .l7  { animation-delay: 2.95s; } .l8  { animation-delay: 3.20s; }
-      .l9  { animation-delay: 3.40s; } .l10 { animation-delay: 3.60s; }
-      .l11 { animation-delay: 3.80s; } .l12 { animation-delay: 4.00s; }
-      .l13 { animation-delay: 4.25s; } .l14 { animation-delay: 4.45s; }
-      .l15 { animation-delay: 4.65s; } .l16 { animation-delay: 4.85s; }
-      .l17 { animation-delay: 5.10s; } .l18 { animation-delay: 5.30s; }
-      .l19 { animation-delay: 5.55s; }
-      .cur-init { animation: blink 0.9s step-end 2; }
-      .cur-end  { opacity: 0; animation: fadeIn 0.01s forwards 5.55s, blink 0.9s step-end infinite 5.55s; }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+      @keyframes charPop {
+        0%   { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      /* Phosphor glow reveal */
+      @keyframes glowReveal {
+        0%   { opacity: 0;   transform: translateX(-10px); filter: blur(6px)  brightness(5); }
+        25%  { opacity: 1;   transform: translateX(2px);   filter: blur(2px)  brightness(3); }
+        60%  { opacity: 1;   transform: translateX(-1px);  filter: blur(1px)  brightness(1.6); }
+        85%  { opacity: 1;   transform: translateX(0);     filter: blur(0px)  brightness(1.2); }
+        100% { opacity: 1;   transform: translateX(0);     filter: blur(0px)  brightness(1); }
+      }
+      /* Section headers — extra bright flash */
+      @keyframes headerReveal {
+        0%   { opacity: 0;   transform: translateX(-12px); filter: blur(8px)  brightness(8); }
+        20%  { opacity: 1;   transform: translateX(3px);   filter: blur(3px)  brightness(6); }
+        50%  { opacity: 1;   transform: translateX(-1px);  filter: blur(1px)  brightness(3); }
+        80%  { opacity: 1;   transform: translateX(0);     filter: blur(0px)  brightness(1.5); }
+        100% { opacity: 1;   transform: translateX(0);     filter: blur(0px)  brightness(1); }
+      }
+
+      /* whoami characters */
+      .c  { opacity: 0; animation: charPop 0.05s forwards; }
+      .c1 { animation-delay: 0.50s; }
+      .c2 { animation-delay: 0.65s; }
+      .c3 { animation-delay: 0.80s; }
+      .c4 { animation-delay: 0.95s; }
+      .c5 { animation-delay: 1.10s; }
+      .c6 { animation-delay: 1.25s; }
+
+      /* output lines */
+      .ln { opacity: 0; animation: glowReveal 0.45s ease forwards; }
+      .hd { opacity: 0; animation: headerReveal 0.5s ease forwards; }
+
+      .l1  { animation-delay: 1.70s; }
+      .l2  { animation-delay: 1.95s; }
+      .l3  { animation-delay: 2.25s; }
+      .l4  { animation-delay: 2.45s; }
+      .l5  { animation-delay: 2.63s; }
+      .l6  { animation-delay: 2.81s; }
+      .l7  { animation-delay: 2.99s; }
+      .l8  { animation-delay: 3.25s; }
+      .l9  { animation-delay: 3.43s; }
+      .l10 { animation-delay: 3.61s; }
+      .l11 { animation-delay: 3.79s; }
+      .l12 { animation-delay: 3.97s; }
+      .l13 { animation-delay: 4.23s; }
+      .l14 { animation-delay: 4.41s; }
+      .l15 { animation-delay: 4.59s; }
+      .l16 { animation-delay: 4.77s; }
+      .l17 { animation-delay: 5.03s; }
+      .l18 { animation-delay: 5.23s; }
+      .l19 { animation-delay: 5.50s; }
+
+      /* initial cursor: blinks 3 times then disappears */
+      .cur-pre { animation: blink 0.7s step-end 3; }
+      /* final cursor: invisible until final prompt appears, then blinks forever */
+      .cur-end {
+        opacity: 0;
+        animation: blink 0.7s step-end infinite;
+        animation-delay: 5.50s;
+        animation-fill-mode: forwards;
+      }
     </style>
-    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.03"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
+
+    <pattern id="scanlines" x="0" y="0" width="800" height="3" patternUnits="userSpaceOnUse">
+      <rect width="800" height="1" y="2" fill="#000000" opacity="0.12"/>
+    </pattern>
+
+    <filter id="promptGlow" x="-5%" y="-40%" width="110%" height="180%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <clipPath id="windowClip">
-      <rect width="800" height="565" rx="12"/>
+
+    <clipPath id="win">
+      <rect width="800" height="530" rx="14"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#windowClip)">
-    <rect width="800" height="565" fill="#0d1117"/>
-    <line x1="0" y1="44" x2="800" y2="44" stroke="#1e2430" stroke-width="1"/>
+
+  <g clip-path="url(#win)">
+    <!-- body -->
+    <rect width="800" height="530" fill="#0d1117"/>
+    <rect width="800" height="530" fill="url(#scanlines)"/>
+
+    <!-- title bar -->
     <rect width="800" height="44" fill="#161b22"/>
+    <line x1="0" y1="44" x2="800" y2="44" stroke="#30363d" stroke-width="1"/>
+
+    <!-- traffic lights -->
     <circle cx="22" cy="22" r="7" fill="#ff5f57"/>
     <circle cx="44" cy="22" r="7" fill="#ffbd2e"/>
     <circle cx="66" cy="22" r="7" fill="#28c840"/>
+
     <text x="400" y="27" text-anchor="middle"
           font-family="'SF Mono','Courier New',monospace" font-size="12" fill="#484f58">
-      aabidnabi — terminal 
+      aabidnabi — terminal
     </text>
-    <rect x="0" y="44" width="800" height="100" fill="url(#scanGrad)" opacity="0.4">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 521"
-        dur="4s" begin="0s" repeatCount="indefinite"/>
-    </rect>
-    <text y="75" font-family="'Courier New',monospace" font-size="14" filter="url(#glow)">
+
+    <!-- ══ First prompt + whoami typing ══
+         Prompt string: "aabidnabi @ terminal : ~ $ "
+         Courier New 14px ≈ 8.4px per char
+         Chars before cursor: a,a,b,i,d,n,a,b,i,' ','@',' ',t,e,r,m,i,n,a,l,' ',':',' ','~',' ','$',' '
+         = 27 chars × 8.4 = 226.8 + x=20 = 246.8 → x≈247
+    -->
+    <text y="76" font-family="'Courier New',monospace" font-size="14" filter="url(#promptGlow)">
       <tspan x="20" fill="#3fb950">aabidnabi</tspan>
-      <tspan fill="#8b949e">@</tspan>
+      <tspan fill="#8b949e"> @ </tspan>
       <tspan fill="#58a6ff">terminal</tspan>
-      <tspan>:</tspan>
+      <tspan fill="#8b949e"> : </tspan>
       <tspan fill="#79c0ff">~</tspan>
-      <tspan fill="#c9d1d9">$ </tspan>
+      <tspan fill="#c9d1d9"> $ </tspan>
       <tspan class="c c1" fill="#e6edf3">w</tspan>
       <tspan class="c c2" fill="#e6edf3">h</tspan>
       <tspan class="c c3" fill="#e6edf3">o</tspan>
@@ -64,7 +123,9 @@
       <tspan class="c c5" fill="#e6edf3">m</tspan>
       <tspan class="c c6" fill="#e6edf3">i</tspan>
     </text>
-    <rect x="196" y="61" width="9" height="16" fill="#3fb950" class="cur-init"/>
+    <rect x="247" y="63" width="8" height="14" fill="#3fb950" class="cur-pre"/>
+
+    <!-- Name / Role -->
     <text x="20" y="106" font-family="'Courier New',monospace" font-size="13" class="ln l1">
       <tspan fill="#79c0ff">Name</tspan><tspan fill="#484f58">: </tspan><tspan fill="#e6edf3">Aabid Nabi</tspan>
     </text>
@@ -76,55 +137,67 @@
       <tspan fill="#ff7b72">&amp;</tspan>
       <tspan fill="#e6edf3"> AI</tspan>
     </text>
-    <text x="20" y="151" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l3">Focus:</text>
-    <text x="20" y="169" font-family="'Courier New',monospace" font-size="13" class="ln l4">
+
+    <!-- Focus -->
+    <text x="20" y="150" font-family="'Courier New',monospace" font-size="13" class="hd l3" fill="#ff7b72">Focus:</text>
+    <text x="20" y="168" font-family="'Courier New',monospace" font-size="13" class="ln l4">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Production-grade system design</tspan>
     </text>
-    <text x="20" y="187" font-family="'Courier New',monospace" font-size="13" class="ln l5">
+    <text x="20" y="186" font-family="'Courier New',monospace" font-size="13" class="ln l5">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Clean architecture and maintainability</tspan>
     </text>
-    <text x="20" y="205" font-family="'Courier New',monospace" font-size="13" class="ln l6">
+    <text x="20" y="204" font-family="'Courier New',monospace" font-size="13" class="ln l6">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Performance optimization and scalability</tspan>
     </text>
-    <text x="20" y="223" font-family="'Courier New',monospace" font-size="13" class="ln l7">
+    <text x="20" y="222" font-family="'Courier New',monospace" font-size="13" class="ln l7">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Secure system development</tspan>
     </text>
-    <text x="20" y="250" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l8">Interests:</text>
-    <text x="20" y="268" font-family="'Courier New',monospace" font-size="13" class="ln l9">
+
+    <!-- Interests -->
+    <text x="20" y="248" font-family="'Courier New',monospace" font-size="13" class="hd l8" fill="#ff7b72">Interests:</text>
+    <text x="20" y="266" font-family="'Courier New',monospace" font-size="13" class="ln l9">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Applied Machine Learning</tspan>
     </text>
-    <text x="20" y="286" font-family="'Courier New',monospace" font-size="13" class="ln l10">
+    <text x="20" y="284" font-family="'Courier New',monospace" font-size="13" class="ln l10">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Full Stack Engineering</tspan>
     </text>
-    <text x="20" y="304" font-family="'Courier New',monospace" font-size="13" class="ln l11">
+    <text x="20" y="302" font-family="'Courier New',monospace" font-size="13" class="ln l11">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Distributed Systems</tspan>
     </text>
-    <text x="20" y="322" font-family="'Courier New',monospace" font-size="13" class="ln l12">
+    <text x="20" y="320" font-family="'Courier New',monospace" font-size="13" class="ln l12">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Cybersecurity</tspan>
     </text>
-    <text x="20" y="349" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l13">Current_Work:</text>
-    <text x="20" y="367" font-family="'Courier New',monospace" font-size="13" class="ln l14">
+
+    <!-- Current Work -->
+    <text x="20" y="346" font-family="'Courier New',monospace" font-size="13" class="hd l13" fill="#ff7b72">Current_Work:</text>
+    <text x="20" y="364" font-family="'Courier New',monospace" font-size="13" class="ln l14">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Building scalable end-to-end systems</tspan>
     </text>
-    <text x="20" y="385" font-family="'Courier New',monospace" font-size="13" class="ln l15">
+    <text x="20" y="382" font-family="'Courier New',monospace" font-size="13" class="ln l15">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Integrating ML into production pipelines</tspan>
     </text>
-    <text x="20" y="403" font-family="'Courier New',monospace" font-size="13" class="ln l16">
+    <text x="20" y="400" font-family="'Courier New',monospace" font-size="13" class="ln l16">
       <tspan fill="#f0883e">  ›</tspan><tspan fill="#c9d1d9"> Exploring LLMs, LangChain &amp; cloud-native architectures</tspan>
     </text>
-    <text x="20" y="430" font-family="'Courier New',monospace" font-size="13" fill="#ff7b72" class="ln l17">Quote:</text>
-    <text x="20" y="450" font-family="'Courier New',monospace" font-size="13" fill="#e3b341" class="ln l18">
+
+    <!-- Quote -->
+    <text x="20" y="426" font-family="'Courier New',monospace" font-size="13" class="hd l17" fill="#ff7b72">Quote:</text>
+    <text x="20" y="446" font-family="'Courier New',monospace" font-size="13" fill="#e3b341" class="ln l18">
       "Performance is engineered. Security is enforced. Scalability is designed."
     </text>
-    <text y="482" font-family="'Courier New',monospace" font-size="14" class="ln l19" filter="url(#glow)">
+
+    <!-- ══ Final prompt + blinking cursor ══ -->
+    <text y="476" font-family="'Courier New',monospace" font-size="14" class="ln l19" filter="url(#promptGlow)">
       <tspan x="20" fill="#3fb950">aabidnabi</tspan>
-      <tspan fill="#8b949e">@</tspan>
+      <tspan fill="#8b949e"> @ </tspan>
       <tspan fill="#58a6ff">terminal</tspan>
-      <tspan fill="#8b949e">:</tspan>
+      <tspan fill="#8b949e"> : </tspan>
       <tspan fill="#79c0ff">~</tspan>
-      <tspan fill="#c9d1d9">$ </tspan>
+      <tspan fill="#c9d1d9"> $ </tspan>
     </text>
-    <rect x="196" y="468" width="9" height="16" fill="#3fb950" class="cur-end"/>
-    <line x1="20" y1="555" x2="780" y2="555" stroke="#1e2430" stroke-width="1"/>
+    <!-- cursor after "$ " — same x=247 as first prompt -->
+    <rect x="247" y="463" width="8" height="14" fill="#3fb950" class="cur-end"/>
+
+    <line x1="20" y1="508" x2="780" y2="508" stroke="#21262d" stroke-width="1"/>
   </g>
 </svg>
