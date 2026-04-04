@@ -77,8 +77,7 @@
         <tspan fill="#3fb950">aabidnabi</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#58a6ff">terminal</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#c9d1d9">$ </tspan>
         <tspan class="c e1" fill="#e6edf3">e</tspan><tspan class="c e2" fill="#e6edf3">x</tspan><tspan class="c e3" fill="#e6edf3">i</tspan><tspan class="c e4" fill="#e6edf3">t</tspan>
       </text>
-
-      <rect x="202" y="250" width="3" height="14" class="cur-final"/>
+<!--<rect x="202" y="250" width="3" height="14" class="cur-final"/>-->
     </g>
   </g>
 </svg>
