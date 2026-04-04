@@ -28,12 +28,13 @@
       .e1 { animation-delay: 2.9s; } .e2 { animation-delay: 3.0s; }
       .e3 { animation-delay: 3.1s; } .e4 { animation-delay: 3.2s; }
 
-      /* White Blinking Cursor */
+      /* White Blinking Cursor 
       .cur-final { 
         fill: #ffffff;
         opacity: 0; 
         animation: fadeIn 0.01s forwards 3.3s, blink 0.8s step-end infinite 3.3s; 
-      }
+      }*/
+
     </style>
     
     <clipPath id="roundCorner">
