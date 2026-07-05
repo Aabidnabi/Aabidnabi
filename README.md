@@ -18,8 +18,10 @@
 <img src="./terminal.svg" alt="whoami terminal" width="100%" />
 </div>
 
+---
+
 <!---***********************CONTACT DETAILS************************* --->
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <table align="center">
   <tr>
     <!-- GitHub -->
@@ -78,12 +80,12 @@
   </tr>
 </table>
 
-
+---
 <!---***********************TECH LANGUAGES ,FRAMEWORKS, TOOLS ************************* --->
 <h3 align="center">
   <p>⚒️ Tech Languages • Frameworks • Tools ⚒️</p>
 </h3>
-
+---
 <table align="center" width="100%">
 <tr>
 <th width="25%" align="center">Web / Frontend</th>
@@ -179,7 +181,6 @@
 
 <!---***********************GITHUB STATISTICS************************* --->
 ## 📊 GitHub Statistics
-----
 <h2 align="center">⚡ Github Profile Stats ⚡ </h2>
 <br/>
 <div align=center>
