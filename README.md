@@ -222,6 +222,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Aabidnabi&color=blueviolet&style=square" alt="Profile Views" />
 </p>
@@ -241,30 +259,34 @@
 <!-- TERMINAL:START -->
 <h3 align="center">💻 whoami terminal</h3>
 
-```bash
-aabidnabi@terminal:~$ whoami
+```ansi
+[1;31m●[0m [1;33m●[0m [1;32m●[0m  [1;37maabidnabi -- terminal[0m
+[1;90m------------------------------------------------------------[0m
 
-Name : Aabid Nabi
-Role : Software Developer | Scalable Systems & AI
+[1;32maabidnabi[0m[1;37m@[0m[1;34mterminal[0m:[1;36m~[0m[1;37m$ [0m[1;33mwhoami[0m
 
-Focus:
-  › Production-grade system design
-  › Clean architecture and maintainability
-  › Performance optimization and scalability
-  › Secure system development
+[1;36mName[0m[1;90m : [0m[1;37mAabid Nabi[0m
+[1;36mRole[0m[1;90m : [0m[1;37mSoftware Developer | Scalable Systems & AI[0m
 
-Interests:
-  › Applied Machine Learning
-  › Full Stack Engineering & Distributed Systems
-  › Cybersecurity
+[1;36mFocus:[0m
+  [1;32m->[0m [1;37mProduction-grade system design[0m
+  [1;32m->[0m [1;37mClean architecture and maintainability[0m
+  [1;32m->[0m [1;37mPerformance optimization and scalability[0m
+  [1;32m->[0m [1;37mSecure system development[0m
 
-Quote:
-"Performance is engineered. Security is enforced. Scalability is designed."
+[1;36mInterests:[0m
+  [1;34m->[0m [1;37mApplied Machine Learning[0m
+  [1;34m->[0m [1;37mFull Stack Engineering & Distributed Systems[0m
+  [1;34m->[0m [1;37mCybersecurity[0m
 
-aabidnabi@terminal:~$ _
+[1;36mQuote:[0m
+[1;33m"Performance is engineered. Security is enforced. Scalability is designed."[0m
+
+[1;32maabidnabi[0m[1;37m@[0m[1;34mterminal[0m:[1;36m~[0m[1;37m$ [0m[1;92m_[0m
 ```
-
 <!-- TERMINAL:END -->
+
+
 
 ---
 
@@ -347,5 +369,6 @@ aabidnabi@terminal:~$ _
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
 
 
