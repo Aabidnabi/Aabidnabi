@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/badge/Computer%20Science-Graduate-brightgreen?style=flat-square&logo=academia" width="230" height="30" />
 <img src="https://img.shields.io/badge/AI%20%26%20LLM-Learning%20%26%20Building-orange?style=flat-square&logo=tensorflow" width="230" height="30" />
 </p>
-<br>
+
+----
+
 <div align="center">
 <img src="./terminal.svg" alt="whoami terminal" width="100%" />
 </div>
