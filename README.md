@@ -220,13 +220,13 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Aabidnabi/Aabidnabi/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
+----
 <div align="center">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!+👋" />
 </h1>
 </div>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
 
 
