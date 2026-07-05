@@ -20,6 +20,87 @@
 
 ---
 
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" style="max-width:800px; height:auto; display:block; margin:0 auto;">
+    <defs>
+      <clipPath id="rounded">
+        <rect width="800" height="450" rx="12" />
+      </clipPath>
+      <radialGradient id="glow" cx="50%" cy="50%" r="70%">
+        <stop offset="0%" stop-color="#1a2332" />
+        <stop offset="100%" stop-color="#0d1117" />
+      </radialGradient>
+      <style>
+        .cursor { animation: blink 1s step-end infinite; }
+        @keyframes blink { 0%, 100% { opacity:1; } 50% { opacity:0; } }
+        .tag { fill: #21262d; }
+        .tag-text { fill: #58a6ff; font-family: monospace, sans-serif; font-size: 10px; font-weight: bold; }
+        .prompt { fill: #3fb950; }
+        .dim { fill: #8b949e; }
+        .highlight { fill: #f0883e; }
+        .cmd { fill: #e6edf3; }
+        .quote { fill: #e3b341; font-style: italic; }
+      </style>
+    </defs>
+    <g clip-path="url(#rounded)">
+      <!-- Background -->
+      <rect width="800" height="450" fill="url(#glow)" />
+      <!-- Title Bar -->
+      <rect width="800" height="35" fill="#161b22" />
+      <circle cx="20" cy="17.5" r="5" fill="#ff5f57" />
+      <circle cx="38" cy="17.5" r="5" fill="#ffbd2e" />
+      <circle cx="56" cy="17.5" r="5" fill="#28c840" />
+      <text x="400" y="22" text-anchor="middle" font-family="monospace, sans-serif" font-size="11" fill="#8b949e">aabidnabi — developer portfolio</text>
+      <!-- Main Content -->
+      <g font-family="monospace, sans-serif" font-size="13">
+        <!-- whoami -->
+        <text x="24" y="65">
+          <tspan class="prompt">❯</tspan>
+          <tspan class="dim"> whoami</tspan>
+        </text>
+        <text x="40" y="85"><tspan class="dim">⟫</tspan> <tspan class="cmd"> Aabid Nabi</tspan></text>
+        <text x="40" y="103"><tspan class="dim">⟫</tspan> <tspan class="cmd"> Software Developer</tspan> <tspan fill="#58a6ff">|</tspan> <tspan class="cmd"> Scalable Systems &amp; AI</tspan></text>
+        <text x="40" y="121"><tspan class="dim">⟫</tspan> <tspan class="cmd"> Status</tspan> <tspan class="dim">→</tspan> <tspan fill="#3fb950"> Available for collaboration</tspan></text>
+        <!-- focus -->
+        <text x="24" y="155">
+          <tspan class="prompt">❯</tspan>
+          <tspan class="highlight"> focus</tspan>
+        </text>
+        <text x="40" y="173"><tspan class="dim">›</tspan> <tspan class="cmd"> Production-grade system design</tspan></text>
+        <text x="40" y="191"><tspan class="dim">›</tspan> <tspan class="cmd"> Clean architecture &amp; maintainability</tspan></text>
+        <text x="40" y="209"><tspan class="dim">›</tspan> <tspan class="cmd"> Performance optimization &amp; scalability</tspan></text>
+        <text x="40" y="227"><tspan class="dim">›</tspan> <tspan class="cmd"> Secure system development</tspan></text>
+        <!-- interests -->
+        <text x="24" y="260">
+          <tspan class="prompt">❯</tspan>
+          <tspan class="highlight"> interests</tspan>
+        </text>
+        <!-- Tags / Chips -->
+        <rect x="40" y="270" width="100" height="22" class="tag" rx="4"/>
+        <text x="50" y="285" class="tag-text">Applied ML</text>
+        <rect x="150" y="270" width="145" height="22" class="tag" rx="4"/>
+        <text x="160" y="285" class="tag-text">Full Stack Engineering</text>
+        <rect x="305" y="270" width="110" height="22" class="tag" rx="4"/>
+        <text x="315" y="285" class="tag-text">Cybersecurity</text>
+        <rect x="425" y="270" width="130" height="22" class="tag" rx="4"/>
+        <text x="435" y="285" class="tag-text">Distributed Systems</text>
+        <!-- quote -->
+        <text x="24" y="325">
+          <tspan class="prompt">❯</tspan>
+          <tspan class="highlight"> quote</tspan>
+        </text>
+        <text x="40" y="343" class="quote">"Performance is engineered. Security is enforced. Scalability is designed."</text>
+        <!-- Final Prompt with Blinking Cursor -->
+        <text x="24" y="390">
+          <tspan class="prompt">❯</tspan>
+          <tspan class="dim">_</tspan>
+          <tspan class="cursor" fill="#e6edf3">▊</tspan>
+        </text>
+      </g>
+    </g>
+  </svg>
+</p>
+
 <!---***********************CONTACT DETAILS************************* --->
 <h3 align="center">🤝 Connect with Me</h3>
 
