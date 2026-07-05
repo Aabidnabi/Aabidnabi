@@ -31,38 +31,6 @@
 
 ----
 
-<h2 align="center">⚡ Github Profile Stats ⚡ </h2>
-<br/>
-<div align=center>
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aabidnabi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aabidnabi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/>
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aabidnabi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-----
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-
-[![Abubakar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aabidnabi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Aabidnabi)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aabidnabi&theme=github_dark"/>
-</p>
-
-<div align="center">
-
-*⭐ If you find my work interesting, please star my repositories!*
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
 ---
 <h3 align="center">🌐 Social Links 🌐 </h3>
 <br/>
@@ -94,8 +62,41 @@
 </p>
 
 ----
+
+----
+<h2 align="center">⚡ Github Profile Stats ⚡ </h2>
+<br/>
+<div align=center>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aabidnabi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aabidnabi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aabidnabi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+----
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+[![Abubakar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aabidnabi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Aabidnabi)
+
+</div>
+
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aabidnabi&theme=github_dark"/>
+</p>
+
+<div align="center">
+
+*⭐ If you find my work interesting, please star my repositories!*
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+</div>
+
+---
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               SNAKE CONTRIBUTION GRAPH                        -->
 <!-- Setup: Add .github/workflows/snake.yml to your profile repo   -->
@@ -119,5 +120,4 @@
 </h1>
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
