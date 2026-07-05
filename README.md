@@ -41,7 +41,29 @@
 </div>
 
 ----
+## 📈 GitHub Contribution Graph
 
+<div align="center">
+
+[![Abubakar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aabidnabi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Aabidnabi)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aabidnabi&theme=github_dark"/>
+</p>
+
+<div align="center">
+
+*⭐ If you find my work interesting, please star my repositories!*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
 <h3 align="center">🌐 Social Links 🌐 </h3>
 <br/>
 <p align="center">
