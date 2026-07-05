@@ -85,7 +85,6 @@
 <h3 align="center">
   <p>⚒️ Tech Languages • Frameworks • Tools ⚒️</p>
 </h3>
----
 <table align="center" width="100%">
 <tr>
 <th width="25%" align="center">Web / Frontend</th>
@@ -178,7 +177,7 @@
 </td>
 </tr>
 </table>
-
+---
 <!---***********************GITHUB STATISTICS************************* --->
 ## 📊 GitHub Statistics
 <h2 align="center">⚡ Github Profile Stats ⚡ </h2>
