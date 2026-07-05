@@ -29,11 +29,12 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,postman,git,github,scss,figma,linux,ubuntu,tensorflow,pytorch&perline=10" />
 </p>
 ----
+
 ### Tech Stack
 
 | Mobile / App Development | Web / Frontend | Backend / Frameworks | Databases |
 |-------------------------|----------------|---------------------|-----------|
-| <img src="https://skillicons.dev/icons?i=flutter" width="40"/> <img src="https://skillicons.dev/icons?i=dart" width="40"/> <img src="https://skillicons.dev/icons?i=kotlin" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> <img src="https://skillicons.dev/icons?i=css" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/> <img src="https://skillicons.dev/icons?i=figma" width="40"/> | <img src="https://skillicons.dev/icons?i=django" width="40"/> <img src="https://skillicons.dev/icons?i=flask" width="40"/> <img src="https://skillicons.dev/icons?i=php" width="40"/> <img src="https://skillicons.dev/icons?i=py" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=flutter" width="40"/> <img src="https://skillicons.dev/icons?i=dart" width="40"/> <img src="https://skillicons.dev/icons?i=kotlin" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> <img src="https://skillicons.dev/icons?i=css" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/> <img src="https://skillicons.dev/icons?i=figma" width="40"/> | <img src="https://skillicons.dev/icons?i=django" width="40"/> <img src="https://skillicons.dev/icons?i=react" width="40"/> <img src="https://skillicons.dev/icons?i=nextjs" width="40"/> <img src="https://skillicons.dev/icons?i=php" width="40"/>  <img src="https://skillicons.dev/icons?i=py" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> |
 
 | ML / AI / Data Science | DevOps / Tools | System / Languages |
 |----------------------|----------------|-------------------|
