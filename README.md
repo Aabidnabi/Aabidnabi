@@ -33,7 +33,6 @@
 
 <tr>
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=html" width="42"/>
 <img src="https://skillicons.dev/icons?i=css" width="42"/>
 <img src="https://skillicons.dev/icons?i=js" width="42"/>
@@ -47,7 +46,6 @@
 </td>
 
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=react" width="42"/>
 <img src="https://skillicons.dev/icons?i=nextjs" width="42"/>
 <img src="https://skillicons.dev/icons?i=nodejs" width="42"/>
@@ -58,25 +56,20 @@
 </td>
 
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=flutter" width="42"/>
 <img src="https://skillicons.dev/icons?i=dart" width="42"/>
 <img src="https://skillicons.dev/icons?i=kotlin" width="42"/>
-
 </td>
 
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=mysql" width="42"/>
 <img src="https://skillicons.dev/icons?i=mongodb" width="42"/>
 <img src="https://skillicons.dev/icons?i=sqlite" width="42"/>
-
 </td>
 </tr>
 </table>
 
 <br>
-
 <table align="center" width="100%">
 <tr>
 <th width="25%" align="center">Programming Languages</th>
@@ -87,43 +80,38 @@
 
 <tr>
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=c" width="42"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="42"/>
 <img src="https://skillicons.dev/icons?i=py" width="42"/>
+</br>
 <img src="https://skillicons.dev/icons?i=java" width="42"/>
 <img src="https://skillicons.dev/icons?i=cs" width="42"/>
-
 </td>
 
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=tensorflow" width="42"/>
 <img src="https://skillicons.dev/icons?i=scikitlearn" width="42"/>
 <img src="https://cdn.simpleicons.org/pandas" width="42"/>
+</br>
 <img src="https://cdn.simpleicons.org/numpy" width="42"/>
-
 </td>
 
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=docker" width="42"/>
 <img src="https://skillicons.dev/icons?i=git" width="42"/>
 <img src="https://skillicons.dev/icons?i=github" width="42"/>
+</br>
 <img src="https://skillicons.dev/icons?i=postman" width="42"/>
-<br><br>
 <img src="https://skillicons.dev/icons?i=canva" width="42"/>
 <img src="https://skillicons.dev/icons?i=figma" width="42"/>
-
 </td>
 
 <td align="center" valign="top">
-
 <img src="https://skillicons.dev/icons?i=windows" width="42"/>
 <img src="https://skillicons.dev/icons?i=linux" width="42"/>
 <img src="https://skillicons.dev/icons?i=ubuntu" width="42"/>
+</br>
 <img src="https://skillicons.dev/icons?i=bash" width="42"/>
-
 </td>
 </tr>
 </table>
