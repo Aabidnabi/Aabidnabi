@@ -92,11 +92,7 @@
 
 *⭐ If you find my work interesting, please star my repositories!*
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-</div>
-
----
+----
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               SNAKE CONTRIBUTION GRAPH                        -->
 <!-- Setup: Add .github/workflows/snake.yml to your profile repo   -->
@@ -112,8 +108,9 @@
 
 </div>
 
----
-
+----
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</div>
 <div align="center">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!+👋" />
