@@ -6,7 +6,7 @@
 <img alt="AI Dev Flow" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80px" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&duration=3000&color=FF5733&center=true&vCenter=true&width=650&height=105&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Aabid+Nabi...;A+Full+Stack+Developer;Building+Scalable+AI+Systems;Passionate+Cybersecurity+Researcher;Always+Learning+New+Things..." alt="Typing SVG" />
 </h2>
-
+<!---***********************ABOUT ME************************ --->
 <h2 align="center">🚀 About Me 🚀 </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blueviolet?style=flat-square&logo=react" width="200" height="30" />
@@ -17,7 +17,8 @@
 <div align="center">
 <img src="./terminal.svg" alt="whoami terminal" width="100%" />
 </div>
-----
+
+<!---***********************CONTACT DETAILS************************* --->
 <h3 align="left">Connect with me:</h3>
 <table align="center">
   <tr>
@@ -77,8 +78,8 @@
   </tr>
 </table>
 
-----
 
+<!---***********************TECH LANGUAGES ,FRAMEWORKS, TOOLS ************************* --->
 <h3 align="center">
   <p>⚒️ Tech Languages • Frameworks • Tools ⚒️</p>
 </h3>
@@ -176,6 +177,7 @@
 </tr>
 </table>
 
+<!---***********************GITHUB STATISTICS************************* --->
 ## 📊 GitHub Statistics
 ----
 <h2 align="center">⚡ Github Profile Stats ⚡ </h2>
@@ -211,7 +213,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aabidnabi/Aabidnabi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aabidnabi/Aabidnabi/output/github-contribution-grid-snake.svg" />
@@ -220,7 +221,6 @@
 </div>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
-----
 <div align="center">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!+👋" />
