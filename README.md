@@ -182,12 +182,11 @@
         <img src="https://cdn.simpleicons.org/firefoxbrowser" height="30" width="40" />
       </a>
     </td>
-    <!-- Email -->
-    <td align="center">
-      <a href="mailto:tantryinfo98@gmail.com">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
-      </a>
-    </td>
+  <td align="center">
+  <a href="mailto:tantryinfo98@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="30" width="40" />
+  </a>
+</td>
     <!-- LeetCode -->
     <td align="center">
       <a href="https://leetcode.com/aabidtantry" target="_blank">
