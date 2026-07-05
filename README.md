@@ -19,90 +19,28 @@
 </div>
 
 ---
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 480" width="100%" style="max-width:820px; height:auto; background:#0d1117; border-radius:10px; border:1px solid #30363d; display:block; box-sizing:border-box;">
-    <style>
-      @keyframes blink { 0%, 100% { opacity:1; } 50% { opacity:0; } }
-      .cursor { animation: blink 1s step-end infinite; }
-      .prompt { fill: #3fb950; }
-      .dim { fill: #8b949e; }
-      .highlight { fill: #ff7b72; }
-      .cmd { fill: #e6edf3; }
-      .quote { fill: #e3b341; }
-      .user { fill: #58a6ff; }
-      /* Typing animations */
-      .t1 { animation: type1 0.3s steps(1) forwards; animation-delay: 0.8s; opacity:0; }
-      .t2 { animation: type1 0.3s steps(1) forwards; animation-delay: 1.1s; opacity:0; }
-      .t3 { animation: type1 0.3s steps(1) forwards; animation-delay: 1.4s; opacity:0; }
-      .t4 { animation: type1 0.3s steps(1) forwards; animation-delay: 1.7s; opacity:0; }
-      .t5 { animation: type1 0.3s steps(1) forwards; animation-delay: 2.0s; opacity:0; }
-      .t6 { animation: type1 0.3s steps(1) forwards; animation-delay: 2.3s; opacity:0; }
-      .l1 { animation: fadeIn 0.4s forwards; animation-delay: 2.8s; opacity:0; }
-      .l2 { animation: fadeIn 0.4s forwards; animation-delay: 3.2s; opacity:0; }
-      .l3 { animation: fadeIn 0.4s forwards; animation-delay: 3.6s; opacity:0; }
-      .l4 { animation: fadeIn 0.4s forwards; animation-delay: 4.0s; opacity:0; }
-      .l5 { animation: fadeIn 0.4s forwards; animation-delay: 4.4s; opacity:0; }
-      .l6 { animation: fadeIn 0.4s forwards; animation-delay: 4.8s; opacity:0; }
-      .l7 { animation: fadeIn 0.4s forwards; animation-delay: 5.2s; opacity:0; }
-      .l8 { animation: fadeIn 0.4s forwards; animation-delay: 5.6s; opacity:0; }
-      .l9 { animation: fadeIn 0.4s forwards; animation-delay: 6.0s; opacity:0; }
-      .l10 { animation: fadeIn 0.4s forwards; animation-delay: 6.4s; opacity:0; }
-      .l11 { animation: fadeIn 0.4s forwards; animation-delay: 6.8s; opacity:0; }
-      .l12 { animation: fadeIn 0.4s forwards; animation-delay: 7.2s; opacity:0; }
-      .l13 { animation: fadeIn 0.4s forwards; animation-delay: 7.6s; opacity:0; }
-      .e1 { animation: type1 0.3s steps(1) forwards; animation-delay: 9.0s; opacity:0; }
-      .e2 { animation: type1 0.3s steps(1) forwards; animation-delay: 9.3s; opacity:0; }
-      .e3 { animation: type1 0.3s steps(1) forwards; animation-delay: 9.6s; opacity:0; }
-      .e4 { animation: type1 0.3s steps(1) forwards; animation-delay: 9.9s; opacity:0; }  
-      @keyframes type1 { 0% { opacity:0; } 100% { opacity:1; } }
-      @keyframes fadeIn { 0% { opacity:0; transform:translateY(3px); } 100% { opacity:1; transform:translateY(0); } }
-    </style>
-    <!-- Terminal Title Bar -->
-    <rect width="820" height="35" fill="#161b22" rx="10" ry="10" />
-    <rect y="35" width="820" height="445" fill="#0d1117" rx="0" ry="0" />
-    <rect y="445" width="820" height="10" fill="#0d1117" rx="0" ry="0" />
-    <circle cx="20" cy="17.5" r="5" fill="#ff5f57" />
-    <circle cx="38" cy="17.5" r="5" fill="#ffbd2e" />
-    <circle cx="56" cy="17.5" r="5" fill="#28c840" />
-    <text x="410" y="22" text-anchor="middle" font-family="monospace, sans-serif" font-size="11" fill="#8b949e">aabidnabi — terminal demo</text>
-    <!-- Main Terminal Body -->
-    <g font-family="monospace, sans-serif" font-size="14">
-      <!-- Line 1: Prompt + typing "whoami" -->
-      <text x="25" y="70">
-        <tspan class="prompt">❯</tspan>
-        <tspan class="dim"> whoami</tspan>
-      </text>
-      <!-- Output lines -->
-      <text x="40" y="95" class="l1"><tspan class="dim">⟫</tspan> <tspan class="cmd">Aabid Nabi</tspan></text>
-      <text x="40" y="115" class="l2"><tspan class="dim">⟫</tspan> <tspan class="cmd">Software Developer</tspan> <tspan fill="#58a6ff">|</tspan> <tspan class="cmd">Scalable Systems &amp; AI</tspan></text>
-      <!-- Focus Section -->
-      <text x="25" y="150" class="l3"><tspan class="highlight">▸ Focus</tspan></text>
-      <text x="40" y="172" class="l4"><tspan class="dim">›</tspan> <tspan class="cmd">Production-grade system design</tspan></text>
-      <text x="40" y="192" class="l5"><tspan class="dim">›</tspan> <tspan class="cmd">Clean architecture &amp; maintainability</tspan></text>
-      <text x="40" y="212" class="l6"><tspan class="dim">›</tspan> <tspan class="cmd">Performance optimization &amp; scalability</tspan></text>
-      <text x="40" y="232" class="l7"><tspan class="dim">›</tspan> <tspan class="cmd">Secure system development</tspan></text>
-      <!-- Interests Section -->
-      <text x="25" y="268" class="l8"><tspan class="highlight">▸ Interests</tspan></text>
-      <text x="40" y="290" class="l9"><tspan class="dim">›</tspan> <tspan class="cmd">Applied Machine Learning</tspan></text>
-      <text x="40" y="310" class="l10"><tspan class="dim">›</tspan> <tspan class="cmd">Full Stack Engineering &amp; Distributed Systems</tspan></text>
-      <text x="40" y="330" class="l11"><tspan class="dim">›</tspan> <tspan class="cmd">Cybersecurity</tspan></text>
-      <!-- Quote Section -->
-      <text x="25" y="365" class="l12"><tspan class="highlight">▸ Quote</tspan></text>
-      <text x="40" y="387" class="l13"><tspan class="quote">"Performance is engineered. Security is enforced. Scalability is designed."</tspan></text>
-      <!-- Final Prompt + Typing "exit" -->
-      <text x="25" y="430">
-        <tspan class="prompt">❯</tspan>
-        <tspan class="dim"> </tspan>
-        <tspan class="e1">e</tspan>
-        <tspan class="e2">x</tspan>
-        <tspan class="e3">i</tspan>
-        <tspan class="e4">t</tspan>
-        <tspan class="cursor" fill="#e6edf3" style="animation-delay:10.5s;">▊</tspan>
-      </text>
-      
-    </g>
-  </svg>
-</p>
+```bash
+⚡ aabidnabi @ terminal : ~ $ whoami
+
+📛 Name        : Aabid Nabi
+💼 Role        : Software Developer | Scalable Systems & AI
+
+🎯 Focus:
+  ➤ Production-grade system design
+  ➤ Clean architecture and maintainability
+  ➤ Performance optimization and scalability
+  ➤ Secure system development
+
+🧠 Interests:
+  ➤ Applied Machine Learning
+  ➤ Full Stack Engineering & Distributed Systems
+  ➤ Cybersecurity
+
+💬 Quote:
+  "Performance is engineered. Security is enforced. Scalability is designed."
+
+✨ aabidnabi @ terminal : ~ $ exit
+```
 <!---***********************CONTACT DETAILS************************* --->
 <h3 align="center">🤝 Connect with Me</h3>
 
