@@ -17,8 +17,68 @@
 <div align="center">
 <img src="./terminal.svg" alt="whoami terminal" width="100%" />
 </div>
+----
+<h3 align="left">Connect with me:</h3>
+<table align="center">
+  <tr>
+    <!-- GitHub -->
+    <td align="center">
+      <a href="https://github.com/Aabidnabi" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <!-- LinkedIn -->
+    <td align="center">
+      <a href="https://linkedin.com/in/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      </a>
+    </td>
+    <!-- Portfolio -->
+    <td align="center">
+      <a href="https://aabidnabi.tech/" target="_blank">
+        <img src="https://cdn.simpleicons.org/firefoxbrowser" height="30" width="40" />
+      </a>
+    </td>
+  <td align="center">
+  <a href="mailto:tantryinfo98@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="30" width="40" />
+  </a>
+</td>
+    <!-- LeetCode -->
+    <td align="center">
+      <a href="https://leetcode.com/aabidtantry" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+      </a>
+    </td>
+    <!-- YouTube -->
+    <td align="center">
+      <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+      </a>
+    </td>
+    <!-- X (Twitter) -->
+    <td align="center">
+      <a href="https://x.com/aabid__nabi" target="_blank">
+        <img src="https://cdn.simpleicons.org/x" height="30" width="40" />
+      </a>
+    </td>
+    <!-- Facebook -->
+    <td align="center">
+      <a href="https://fb.com/aabid-nabi" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+      </a>
+    </td>
+    <!-- Instagram -->
+    <td align="center">
+      <a href="https://instagram.com/aabid__nabi_" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ----
+
 <h3 align="center">
   <p>⚒️ Tech Languages • Frameworks • Tools ⚒️</p>
 </h3>
@@ -161,64 +221,6 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 ----
-<h3 align="left">Connect with me:</h3>
-<table align="center">
-  <tr>
-    <!-- GitHub -->
-    <td align="center">
-      <a href="https://github.com/Aabidnabi" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <!-- LinkedIn -->
-    <td align="center">
-      <a href="https://linkedin.com/in/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-      </a>
-    </td>
-    <!-- Portfolio -->
-    <td align="center">
-      <a href="https://aabidnabi.tech/" target="_blank">
-        <img src="https://cdn.simpleicons.org/firefoxbrowser" height="30" width="40" />
-      </a>
-    </td>
-  <td align="center">
-  <a href="mailto:tantryinfo98@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="30" width="40" />
-  </a>
-</td>
-    <!-- LeetCode -->
-    <td align="center">
-      <a href="https://leetcode.com/aabidtantry" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-      </a>
-    </td>
-    <!-- YouTube -->
-    <td align="center">
-      <a href="https://youtube.com/@cscodehubtutorials9923?si=ppgQJs8pgRaCPJz3" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-      </a>
-    </td>
-    <!-- X (Twitter) -->
-    <td align="center">
-      <a href="https://x.com/aabid__nabi" target="_blank">
-        <img src="https://cdn.simpleicons.org/x" height="30" width="40" />
-      </a>
-    </td>
-    <!-- Facebook -->
-    <td align="center">
-      <a href="https://fb.com/aabid-nabi" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-      </a>
-    </td>
-    <!-- Instagram -->
-    <td align="center">
-      <a href="https://instagram.com/aabid__nabi_" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
 <div align="center">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!+👋" />
