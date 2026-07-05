@@ -103,7 +103,7 @@
 </br>
 <img src="https://skillicons.dev/icons?i=postman" width="42"/>
 <img src="https://skillicons.dev/icons?i=figma" width="42"/>
-<img src="https://skillicons.dev/icons?i=jupyter" width="42"/>
+<img src="https://skillicons.dev/icons?i=kaggle" width="42"/>
 </td>
 
 <td align="center" valign="top">
