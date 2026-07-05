@@ -27,13 +27,13 @@
     <!-- GitHub -->
     <td align="center">
       <a href="https://github.com/Aabidnabi" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="50" width="50"/>
       </a>
     </td>
     <!-- LinkedIn -->
     <td align="center">
       <a href="https://linkedin.com/in/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" />
       </a>
     </td>
     <!-- Portfolio -->
