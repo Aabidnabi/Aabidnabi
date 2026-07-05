@@ -17,59 +17,8 @@
 <div align="center">
 <img src="./terminal.svg" alt="whoami terminal" width="100%" />
 </div>
+----
 
----
-<!-- ================= TERMINAL ================= -->
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-```console
-aabidnabi@terminal:~$ whoami
-
-Name    : Aabid Nabi
-Role    : Software Engineer | AI Researcher | M.Tech @ NIT Srinagar
-
-Focus
-------
-▸ Production-grade Software Engineering
-▸ Artificial Intelligence & Machine Learning
-▸ Cyber Security Research
-▸ Distributed Systems
-▸ Scalable Backend Development
-
-Skills
--------
-Languages   : Python • C++ • JavaScript • TypeScript
-Frontend    : React • Next.js • TailwindCSS
-Backend     : Node.js • Express • Django
-Database    : MySQL • MongoDB • PostgreSQL
-Cloud       : AWS • Docker • Linux
-Research    : AI • Computer Vision • Medical AI
-
-Current
--------
-📖 M.Tech Computer Science @ NIT Srinagar
-🔬 Research Assistant @ GAASH Lab
-🧠 Learning LLMs • Vision Models • Cyber Security
-
-Quote
-------
-"Performance is engineered.
- Security is enforced.
- Scalability is designed."
-
-aabidnabi@terminal:~$ _
-```
-
-</td>
-</tr>
-</table>
-
-</div>
 <!---***********************CONTACT DETAILS************************* --->
 <h3 align="center">🤝 Connect with Me</h3>
 
