@@ -72,6 +72,24 @@
 </p>
 
 ----
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               SNAKE CONTRIBUTION GRAPH                        -->
+<!-- Setup: Add .github/workflows/snake.yml to your profile repo   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aabidnabi/Aabidnabi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aabidnabi/Aabidnabi/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Aabidnabi/Aabidnabi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 <h1 align="center">
