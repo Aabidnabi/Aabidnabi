@@ -38,12 +38,12 @@
 <img src="https://skillicons.dev/icons?i=css" width="42"/>
 <img src="https://skillicons.dev/icons?i=js" width="42"/>
 <img src="https://skillicons.dev/icons?i=typescript" width="42"/>
-<br><br>
+<br>
 <img src="https://skillicons.dev/icons?i=tailwind" width="42"/>
 <img src="https://skillicons.dev/icons?i=scss" width="42"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" width="42"/>
+<br>
 <img src="https://skillicons.dev/icons?i=jquery" width="42"/>
-
 </td>
 
 <td align="center" valign="top">
@@ -55,7 +55,6 @@
 <img src="https://skillicons.dev/icons?i=express" width="42"/>
 <img src="https://skillicons.dev/icons?i=php" width="42"/>
 <img src="https://skillicons.dev/icons?i=django" width="42"/>
-
 </td>
 
 <td align="center" valign="top">
